@@ -1,0 +1,2001 @@
+customer_id,signup_date,country,age,gender,loyalty_tier,acquisition_channel
+1,2021-04-08,BR,48,Male,Bronze,Referral
+2,2023-04-28,IN,36,Female,Silver,Organic
+3,2022-12-18,UK,35,Female,Silver,Organic
+4,2022-04-26,US,45,Male,Silver,Paid Search
+5,2022-04-20,IN,53,Male,Silver,Organic
+6,2023-07-30,IN,31,Female,Bronze,Paid Search
+7,2021-04-05,IN,35,Female,Silver,Social
+8,2023-02-03,US,36,Male,Bronze,Organic
+9,2021-08-09,BR,33,Female,Bronze,Paid Search
+10,2021-04-14,US,36,Male,Bronze,Email
+11,2022-07-31,CA,66,Male,Bronze,Email
+12,2023-12-05,AU,32,Male,Bronze,Paid Search
+13,2023-03-17,US,46,Male,Gold,Organic
+14,2023-04-14,IN,27,Male,Silver,Paid Search
+15,2023-02-25,UK,31,Male,Bronze,Paid Search
+16,2023-05-11,AU,18,Male,Silver,Email
+17,2022-07-16,BR,35,Female,Silver,Organic
+18,2021-05-21,IN,22,Male,Silver,Paid Search
+19,2023-07-09,AU,37,Female,Silver,Paid Search
+20,2022-05-09,US,31,Male,Bronze,Paid Search
+21,2022-07-02,US,19,Male,Bronze,Referral
+22,2022-02-11,IN,34,Male,Silver,Organic
+23,2021-07-19,CA,32,Male,Silver,Paid Search
+24,2023-10-12,US,56,Female,Bronze,Email
+25,2023-05-06,CA,37,Female,Silver,Paid Search
+26,2022-12-07,US,22,Female,Bronze,Email
+27,2022-03-17,US,39,Female,Silver,Organic
+28,2023-06-20,AU,40,Male,Gold,Social
+29,2022-08-21,DE,31,Male,Silver,Paid Search
+30,2022-05-01,IN,33,Female,Bronze,Paid Search
+31,2022-05-09,CA,42,Other,Platinum,Email
+32,2021-09-06,IN,25,Male,Bronze,Paid Search
+33,2021-04-11,US,53,Male,Gold,Referral
+34,2022-08-31,IN,46,Male,Bronze,Organic
+35,2023-08-31,AU,39,Female,Gold,Organic
+36,2021-03-11,US,23,Male,Bronze,Social
+37,2023-07-29,US,48,Female,Bronze,Organic
+38,2023-06-26,CA,23,Female,Bronze,Organic
+39,2021-10-31,IN,37,Female,Gold,Referral
+40,2022-11-23,US,33,Male,Bronze,Email
+41,2021-06-30,IN,42,Female,Platinum,Organic
+42,2023-04-11,BR,32,Female,Gold,Organic
+43,2023-02-07,US,24,Female,Bronze,Paid Search
+44,2022-01-24,US,29,Female,Bronze,Organic
+45,2021-03-16,IN,31,Other,Bronze,Organic
+46,2023-11-29,IN,46,Male,Gold,Organic
+47,2022-05-04,US,35,Male,Bronze,Paid Search
+48,2023-09-05,UK,24,Female,Silver,Email
+49,2023-01-13,UK,43,Male,Bronze,Email
+50,2023-05-03,UK,41,Male,Bronze,Organic
+51,2023-04-13,IN,27,Male,Bronze,Paid Search
+52,2021-08-02,US,26,Male,Silver,Referral
+53,2022-02-03,US,32,Female,Gold,Email
+54,2022-05-27,BR,29,Male,Silver,Organic
+55,2022-06-30,UK,43,Male,Bronze,Organic
+56,2021-02-17,IN,36,Male,Bronze,Organic
+57,2022-08-22,UK,25,Female,Bronze,Paid Search
+58,2021-06-18,US,36,Female,Silver,Social
+59,2023-03-25,BR,36,Male,Platinum,Organic
+60,2023-01-18,DE,25,Male,Silver,Paid Search
+61,2023-10-08,US,30,Male,Bronze,Paid Search
+62,2023-03-27,US,38,Female,Bronze,Referral
+63,2022-02-06,US,48,Male,Silver,Social
+64,2023-11-26,US,42,Female,Gold,Email
+65,2022-03-26,IN,27,Male,Silver,Paid Search
+66,2021-12-23,US,49,Female,Bronze,Paid Search
+67,2023-09-19,DE,30,Female,Silver,Email
+68,2022-02-10,IN,41,Male,Bronze,Organic
+69,2021-03-25,US,47,Male,Silver,Email
+70,2022-05-30,US,40,Female,Silver,Social
+71,2023-05-22,US,30,Female,Bronze,Social
+72,2021-07-27,IN,38,Male,Silver,Email
+73,2022-05-22,UK,38,Male,Bronze,Email
+74,2021-05-23,IN,24,Male,Bronze,Paid Search
+75,2023-01-22,US,32,Female,Bronze,Referral
+76,2022-06-05,AU,42,Female,Gold,Social
+77,2021-12-28,IN,30,Female,Bronze,Social
+78,2021-09-06,IN,28,Male,Bronze,Social
+79,2022-09-11,IN,18,Male,Bronze,Email
+80,2023-01-04,US,19,Male,Bronze,Social
+81,2023-10-27,DE,57,Male,Bronze,Paid Search
+82,2022-04-24,DE,26,Male,Gold,Organic
+83,2021-06-25,US,28,Female,Bronze,Referral
+84,2023-07-01,US,46,Female,Bronze,Organic
+85,2022-11-21,IN,25,Male,Silver,Social
+86,2023-02-06,IN,30,Female,Silver,Social
+87,2021-04-17,AU,44,Other,Bronze,Organic
+88,2021-12-09,IN,36,Male,Gold,Organic
+89,2023-04-21,BR,21,Male,Bronze,Referral
+90,2023-07-01,US,29,Male,Bronze,Email
+91,2022-04-22,UK,44,Female,Bronze,Paid Search
+92,2023-06-01,US,32,Female,Bronze,Email
+93,2023-07-11,AU,35,Male,Silver,Organic
+94,2022-03-01,UK,35,Male,Bronze,Social
+95,2023-09-11,DE,47,Male,Platinum,Organic
+96,2021-11-12,US,26,Male,Bronze,Email
+97,2021-09-20,IN,19,Male,Silver,Organic
+98,2023-01-18,UK,44,Female,Bronze,Paid Search
+99,2022-11-29,US,21,Male,Bronze,Paid Search
+100,2021-06-03,CA,21,Female,Bronze,Social
+101,2023-07-01,IN,44,Male,Platinum,Organic
+102,2021-08-07,UK,31,Male,Bronze,Referral
+103,2023-06-01,IN,36,Male,Silver,Social
+104,2021-01-09,DE,18,Female,Bronze,Organic
+105,2023-05-23,US,41,Male,Silver,Social
+106,2023-05-12,IN,25,Male,Silver,Paid Search
+107,2023-05-05,BR,45,Male,Bronze,Organic
+108,2022-12-30,US,34,Male,Bronze,Paid Search
+109,2022-06-01,BR,43,Male,Bronze,Organic
+110,2023-02-12,BR,39,Other,Bronze,Paid Search
+111,2021-10-31,US,33,Female,Bronze,Paid Search
+112,2023-05-05,US,29,Male,Silver,Social
+113,2022-09-01,CA,27,Female,Bronze,Organic
+114,2022-05-18,AU,46,Male,Bronze,Organic
+115,2022-07-08,US,18,Female,Bronze,Organic
+116,2022-09-15,BR,21,Male,Bronze,Referral
+117,2021-02-10,US,32,Male,Silver,Organic
+118,2021-06-03,IN,18,Female,Platinum,Social
+119,2021-09-26,BR,31,Female,Bronze,Referral
+120,2021-05-06,US,35,Female,Bronze,Paid Search
+121,2022-04-27,CA,44,Female,Bronze,Email
+122,2023-01-02,US,49,Female,Bronze,Referral
+123,2022-12-18,IN,19,Male,Bronze,Organic
+124,2022-05-31,AU,36,Male,Gold,Email
+125,2023-07-26,US,44,Female,Bronze,Organic
+126,2022-09-11,DE,39,Female,Bronze,Organic
+127,2021-03-28,BR,40,Female,Silver,Organic
+128,2023-04-18,CA,30,Female,Gold,Organic
+129,2022-09-22,AU,31,Male,Bronze,Paid Search
+130,2022-11-27,AU,27,Female,Bronze,Organic
+131,2022-09-12,US,39,Female,Silver,Organic
+132,2022-08-30,UK,47,Female,Silver,Paid Search
+133,2021-04-10,IN,40,Male,Silver,Organic
+134,2022-09-05,DE,25,Male,Bronze,Organic
+135,2023-05-21,CA,26,Female,Silver,Organic
+136,2021-11-29,US,23,Male,Bronze,Organic
+137,2022-10-23,CA,23,Female,Bronze,Organic
+138,2021-02-03,IN,36,Male,Bronze,Organic
+139,2022-01-16,DE,23,Female,Gold,Referral
+140,2022-04-24,IN,28,Male,Platinum,Paid Search
+141,2023-12-13,US,44,Female,Silver,Paid Search
+142,2021-08-23,DE,31,Male,Silver,Paid Search
+143,2021-10-30,IN,32,Female,Gold,Organic
+144,2022-03-24,BR,34,Male,Bronze,Referral
+145,2023-12-23,CA,39,Female,Silver,Social
+146,2023-07-24,BR,31,Male,Silver,Email
+147,2021-02-07,CA,18,Female,Bronze,Referral
+148,2021-09-14,BR,34,Female,Silver,Referral
+149,2023-06-19,US,29,Male,Silver,Organic
+150,2021-03-05,UK,52,Female,Bronze,Paid Search
+151,2023-07-26,US,22,Male,Bronze,Email
+152,2021-11-05,IN,41,Male,Bronze,Email
+153,2023-10-02,BR,32,Female,Bronze,Social
+154,2021-11-18,DE,59,Female,Gold,Email
+155,2022-04-21,UK,40,Female,Silver,Referral
+156,2022-12-26,DE,51,Other,Bronze,Paid Search
+157,2021-05-19,US,18,Female,Silver,Email
+158,2022-09-02,AU,33,Male,Bronze,Organic
+159,2022-07-07,US,28,Female,Gold,Paid Search
+160,2023-05-09,US,43,Other,Bronze,Organic
+161,2023-12-27,US,39,Female,Bronze,Referral
+162,2022-12-29,AU,41,Female,Silver,Paid Search
+163,2022-03-25,IN,35,Female,Platinum,Paid Search
+164,2022-03-21,IN,44,Female,Silver,Social
+165,2022-04-03,IN,35,Other,Bronze,Organic
+166,2023-06-11,US,29,Male,Silver,Organic
+167,2021-12-18,US,36,Male,Silver,Organic
+168,2021-07-02,US,47,Female,Bronze,Paid Search
+169,2022-01-02,IN,40,Female,Bronze,Organic
+170,2021-01-25,US,39,Female,Silver,Organic
+171,2021-04-27,IN,41,Female,Bronze,Paid Search
+172,2021-04-09,IN,37,Male,Silver,Paid Search
+173,2023-04-25,IN,31,Male,Bronze,Paid Search
+174,2023-03-02,BR,36,Female,Bronze,Organic
+175,2023-02-02,US,18,Male,Silver,Organic
+176,2022-05-21,IN,18,Female,Platinum,Referral
+177,2023-02-25,US,42,Male,Bronze,Organic
+178,2021-06-26,BR,24,Female,Bronze,Paid Search
+179,2023-09-14,BR,23,Other,Silver,Organic
+180,2022-07-03,US,37,Female,Bronze,Organic
+181,2023-10-25,US,33,Female,Bronze,Social
+182,2021-06-16,US,37,Female,Bronze,Organic
+183,2022-06-29,US,24,Female,Bronze,Social
+184,2023-02-02,US,39,Male,Bronze,Email
+185,2022-06-27,US,30,Male,Bronze,Paid Search
+186,2022-05-04,US,47,Female,Bronze,Referral
+187,2021-07-02,US,30,Female,Bronze,Paid Search
+188,2022-02-22,IN,39,Male,Bronze,Referral
+189,2021-09-19,US,27,Male,Silver,Organic
+190,2021-11-27,IN,54,Female,Bronze,Organic
+191,2023-01-19,BR,33,Female,Bronze,Organic
+192,2022-11-22,IN,38,Male,Bronze,Social
+193,2022-10-27,US,43,Female,Bronze,Email
+194,2022-02-01,BR,32,Male,Bronze,Referral
+195,2023-11-17,US,58,Female,Bronze,Paid Search
+196,2021-04-06,US,44,Female,Bronze,Organic
+197,2022-01-11,UK,21,Male,Bronze,Email
+198,2021-05-10,US,39,Male,Gold,Email
+199,2022-01-07,IN,42,Male,Bronze,Organic
+200,2023-11-20,CA,42,Male,Bronze,Paid Search
+201,2022-02-06,UK,24,Male,Silver,Paid Search
+202,2023-09-22,CA,32,Female,Bronze,Social
+203,2022-06-27,US,44,Female,Bronze,Paid Search
+204,2023-02-06,US,29,Female,Bronze,Email
+205,2022-05-16,IN,25,Female,Bronze,Referral
+206,2021-10-19,IN,26,Male,Bronze,Paid Search
+207,2023-04-17,DE,28,Female,Bronze,Paid Search
+208,2023-11-28,DE,18,Male,Bronze,Social
+209,2021-10-16,US,25,Male,Platinum,Paid Search
+210,2023-05-03,BR,38,Male,Bronze,Email
+211,2021-10-13,US,46,Male,Bronze,Paid Search
+212,2023-02-24,AU,31,Female,Bronze,Paid Search
+213,2023-05-14,US,36,Male,Bronze,Organic
+214,2022-05-08,DE,34,Female,Bronze,Paid Search
+215,2023-03-18,UK,32,Female,Gold,Paid Search
+216,2021-10-26,UK,23,Female,Bronze,Paid Search
+217,2021-03-28,CA,22,Female,Bronze,Organic
+218,2021-04-16,UK,47,Female,Silver,Organic
+219,2022-05-05,UK,34,Female,Bronze,Social
+220,2023-09-16,BR,41,Female,Silver,Paid Search
+221,2021-05-20,US,35,Male,Bronze,Paid Search
+222,2022-05-15,IN,48,Female,Platinum,Paid Search
+223,2023-02-10,DE,22,Female,Bronze,Organic
+224,2021-08-10,US,32,Male,Gold,Organic
+225,2023-03-02,US,30,Female,Bronze,Referral
+226,2021-12-02,US,27,Female,Bronze,Social
+227,2023-06-05,US,18,Male,Silver,Organic
+228,2022-09-27,DE,35,Female,Bronze,Organic
+229,2022-08-22,UK,40,Female,Gold,Paid Search
+230,2021-07-13,US,49,Male,Bronze,Email
+231,2022-05-23,IN,31,Male,Bronze,Organic
+232,2023-07-27,US,23,Male,Silver,Social
+233,2021-01-22,AU,24,Male,Gold,Paid Search
+234,2023-04-11,DE,27,Male,Silver,Email
+235,2022-06-24,US,36,Female,Silver,Paid Search
+236,2023-02-27,US,25,Male,Silver,Paid Search
+237,2022-12-28,BR,35,Female,Bronze,Social
+238,2022-04-19,UK,23,Male,Platinum,Social
+239,2021-12-04,IN,33,Female,Silver,Email
+240,2022-11-18,UK,55,Other,Bronze,Social
+241,2021-06-03,IN,37,Female,Bronze,Social
+242,2022-10-02,BR,25,Female,Bronze,Email
+243,2021-04-14,BR,62,Male,Bronze,Social
+244,2022-12-13,US,45,Female,Bronze,Organic
+245,2022-11-20,DE,41,Female,Bronze,Email
+246,2021-04-03,BR,32,Male,Bronze,Paid Search
+247,2023-04-10,US,42,Female,Bronze,Social
+248,2022-04-01,BR,42,Male,Silver,Paid Search
+249,2023-05-12,IN,25,Male,Silver,Referral
+250,2021-02-15,US,45,Other,Bronze,Organic
+251,2021-07-16,AU,43,Other,Bronze,Paid Search
+252,2022-06-25,DE,34,Female,Silver,Organic
+253,2021-07-26,US,29,Male,Bronze,Organic
+254,2021-12-28,IN,48,Female,Bronze,Paid Search
+255,2022-12-25,UK,31,Female,Gold,Organic
+256,2021-06-08,DE,35,Other,Bronze,Email
+257,2023-01-13,US,24,Male,Bronze,Paid Search
+258,2021-04-24,UK,24,Male,Bronze,Email
+259,2021-07-11,BR,53,Male,Bronze,Paid Search
+260,2022-10-06,CA,49,Male,Silver,Paid Search
+261,2023-05-19,US,46,Female,Bronze,Organic
+262,2021-07-06,AU,38,Female,Silver,Email
+263,2021-11-25,US,21,Male,Silver,Social
+264,2023-10-11,CA,39,Male,Bronze,Paid Search
+265,2023-12-20,US,39,Male,Bronze,Paid Search
+266,2022-09-29,AU,34,Female,Bronze,Paid Search
+267,2022-05-05,BR,41,Female,Bronze,Referral
+268,2022-01-15,BR,54,Male,Silver,Organic
+269,2022-11-02,US,29,Female,Bronze,Paid Search
+270,2022-10-10,CA,38,Male,Gold,Referral
+271,2021-11-19,US,24,Male,Silver,Organic
+272,2021-01-25,IN,40,Female,Bronze,Email
+273,2021-06-15,BR,32,Male,Platinum,Organic
+274,2023-11-16,DE,36,Female,Bronze,Paid Search
+275,2022-04-03,UK,27,Male,Bronze,Organic
+276,2022-06-13,US,28,Male,Bronze,Organic
+277,2022-05-27,IN,18,Male,Silver,Social
+278,2023-05-08,US,35,Male,Silver,Social
+279,2021-03-13,US,31,Male,Bronze,Paid Search
+280,2021-04-01,AU,36,Male,Bronze,Organic
+281,2021-10-30,UK,34,Female,Bronze,Paid Search
+282,2022-06-17,US,41,Male,Bronze,Organic
+283,2023-01-05,IN,52,Female,Silver,Paid Search
+284,2022-06-22,US,26,Female,Bronze,Organic
+285,2022-04-29,US,42,Female,Bronze,Referral
+286,2023-10-24,CA,25,Male,Bronze,Paid Search
+287,2021-06-26,US,30,Female,Bronze,Paid Search
+288,2022-09-19,US,33,Male,Silver,Email
+289,2022-08-17,US,42,Female,Silver,Organic
+290,2022-06-03,DE,22,Female,Bronze,Organic
+291,2023-06-04,US,21,Male,Silver,Paid Search
+292,2021-10-20,US,35,Female,Gold,Referral
+293,2023-11-11,BR,18,Male,Silver,Organic
+294,2021-12-30,UK,44,Other,Bronze,Paid Search
+295,2022-08-20,US,41,Female,Silver,Social
+296,2022-07-25,BR,34,Male,Gold,Organic
+297,2023-07-20,IN,41,Male,Gold,Organic
+298,2022-04-26,BR,18,Male,Silver,Paid Search
+299,2021-11-08,US,41,Male,Bronze,Paid Search
+300,2021-01-24,US,40,Other,Bronze,Organic
+301,2022-02-03,US,18,Male,Silver,Paid Search
+302,2023-06-24,IN,35,Female,Bronze,Organic
+303,2021-01-11,IN,30,Male,Bronze,Organic
+304,2023-09-09,IN,18,Female,Bronze,Referral
+305,2022-08-18,IN,32,Male,Bronze,Organic
+306,2021-06-03,IN,39,Female,Bronze,Paid Search
+307,2021-11-27,IN,18,Male,Bronze,Email
+308,2022-08-30,US,40,Male,Silver,Referral
+309,2021-12-12,UK,46,Female,Bronze,Paid Search
+310,2021-04-29,BR,21,Male,Bronze,Organic
+311,2022-12-31,AU,19,Female,Bronze,Organic
+312,2023-01-07,US,45,Female,Silver,Email
+313,2021-05-11,IN,30,Male,Bronze,Email
+314,2021-11-04,US,46,Female,Bronze,Paid Search
+315,2021-09-25,UK,34,Male,Bronze,Organic
+316,2022-12-24,IN,21,Male,Bronze,Organic
+317,2023-03-11,BR,22,Male,Silver,Social
+318,2023-03-08,AU,55,Female,Silver,Paid Search
+319,2023-10-25,US,18,Female,Gold,Paid Search
+320,2023-04-22,IN,30,Female,Silver,Organic
+321,2021-12-18,IN,26,Female,Bronze,Social
+322,2021-04-28,UK,18,Female,Silver,Social
+323,2022-11-05,CA,40,Male,Bronze,Organic
+324,2023-10-01,US,25,Female,Bronze,Social
+325,2023-12-04,US,40,Male,Bronze,Paid Search
+326,2021-09-10,DE,33,Male,Platinum,Organic
+327,2021-09-16,IN,40,Other,Bronze,Paid Search
+328,2021-02-10,DE,18,Female,Bronze,Referral
+329,2021-06-04,US,31,Female,Silver,Paid Search
+330,2022-08-31,US,44,Other,Bronze,Referral
+331,2022-08-22,US,29,Female,Bronze,Email
+332,2022-02-11,CA,31,Male,Bronze,Social
+333,2021-12-06,IN,22,Female,Platinum,Referral
+334,2023-06-28,US,32,Female,Bronze,Email
+335,2022-05-19,US,23,Male,Silver,Email
+336,2023-06-05,BR,31,Other,Bronze,Referral
+337,2023-11-21,IN,25,Female,Silver,Paid Search
+338,2021-12-14,BR,45,Male,Silver,Paid Search
+339,2021-08-10,AU,44,Female,Bronze,Social
+340,2023-11-10,US,23,Female,Bronze,Paid Search
+341,2022-11-27,AU,59,Female,Bronze,Referral
+342,2021-11-15,IN,37,Female,Silver,Paid Search
+343,2022-11-12,DE,38,Female,Silver,Paid Search
+344,2022-07-18,IN,49,Female,Silver,Paid Search
+345,2023-09-19,UK,39,Male,Silver,Email
+346,2021-10-08,DE,26,Female,Silver,Referral
+347,2023-12-22,US,18,Female,Bronze,Organic
+348,2023-10-22,IN,18,Male,Bronze,Paid Search
+349,2021-07-17,US,56,Male,Bronze,Organic
+350,2021-06-30,US,37,Female,Bronze,Paid Search
+351,2022-08-07,UK,38,Male,Silver,Paid Search
+352,2021-02-19,DE,41,Female,Bronze,Paid Search
+353,2021-11-24,US,29,Female,Bronze,Paid Search
+354,2022-04-22,US,40,Male,Bronze,Organic
+355,2023-11-28,AU,20,Female,Bronze,Organic
+356,2023-12-23,IN,36,Female,Silver,Organic
+357,2021-06-15,DE,43,Female,Bronze,Organic
+358,2023-09-04,US,25,Male,Bronze,Paid Search
+359,2021-04-10,UK,64,Female,Bronze,Email
+360,2023-03-31,CA,21,Female,Bronze,Email
+361,2023-07-15,US,41,Male,Bronze,Paid Search
+362,2023-09-03,IN,35,Female,Bronze,Organic
+363,2021-09-02,US,49,Female,Silver,Paid Search
+364,2023-09-06,US,32,Male,Silver,Email
+365,2021-05-07,UK,25,Female,Bronze,Organic
+366,2022-07-23,UK,44,Male,Silver,Organic
+367,2022-05-30,UK,27,Female,Platinum,Paid Search
+368,2021-12-12,IN,43,Female,Bronze,Organic
+369,2021-01-25,IN,22,Female,Silver,Organic
+370,2023-04-26,IN,28,Male,Bronze,Paid Search
+371,2022-01-03,US,25,Male,Silver,Organic
+372,2022-12-26,US,20,Male,Bronze,Email
+373,2022-03-26,US,22,Female,Gold,Organic
+374,2022-02-14,BR,50,Female,Silver,Email
+375,2023-08-29,US,57,Male,Bronze,Paid Search
+376,2021-04-14,IN,18,Female,Bronze,Organic
+377,2023-03-18,IN,48,Female,Bronze,Organic
+378,2023-03-29,CA,39,Female,Bronze,Organic
+379,2022-02-21,CA,35,Male,Bronze,Organic
+380,2021-10-15,DE,20,Male,Platinum,Paid Search
+381,2021-01-06,US,46,Male,Bronze,Paid Search
+382,2023-10-23,US,18,Female,Silver,Organic
+383,2023-11-04,CA,33,Female,Silver,Email
+384,2021-09-21,BR,27,Male,Silver,Email
+385,2021-02-04,BR,32,Female,Bronze,Organic
+386,2021-05-15,BR,49,Female,Silver,Organic
+387,2021-03-16,IN,18,Male,Bronze,Organic
+388,2023-06-30,US,21,Male,Bronze,Email
+389,2023-09-04,DE,31,Female,Bronze,Organic
+390,2021-06-17,UK,45,Other,Bronze,Paid Search
+391,2023-03-29,US,41,Male,Silver,Email
+392,2021-07-16,UK,53,Male,Bronze,Referral
+393,2022-02-07,AU,37,Female,Bronze,Organic
+394,2022-10-19,US,38,Male,Bronze,Paid Search
+395,2023-02-28,IN,28,Male,Silver,Social
+396,2023-08-16,IN,18,Male,Silver,Social
+397,2021-02-19,US,51,Female,Bronze,Social
+398,2021-08-04,CA,38,Male,Bronze,Organic
+399,2021-11-04,DE,34,Female,Bronze,Paid Search
+400,2021-12-06,US,26,Male,Bronze,Paid Search
+401,2023-12-29,BR,51,Male,Bronze,Organic
+402,2023-05-02,IN,19,Female,Silver,Social
+403,2021-12-17,UK,23,Male,Bronze,Social
+404,2023-12-01,DE,30,Male,Bronze,Organic
+405,2022-07-01,BR,41,Male,Silver,Social
+406,2022-07-03,US,32,Female,Bronze,Organic
+407,2022-04-20,UK,42,Male,Silver,Social
+408,2021-06-07,DE,43,Male,Silver,Paid Search
+409,2023-10-21,BR,32,Male,Bronze,Paid Search
+410,2021-01-16,CA,48,Male,Silver,Organic
+411,2021-07-10,BR,22,Female,Bronze,Email
+412,2021-09-09,US,30,Female,Bronze,Organic
+413,2021-11-02,IN,35,Female,Bronze,Referral
+414,2021-05-25,US,43,Male,Bronze,Email
+415,2021-01-20,IN,49,Male,Silver,Paid Search
+416,2023-01-13,CA,28,Female,Silver,Social
+417,2023-11-28,IN,38,Male,Silver,Email
+418,2021-05-14,US,25,Male,Gold,Email
+419,2021-11-21,DE,32,Female,Bronze,Organic
+420,2022-07-09,US,40,Male,Bronze,Paid Search
+421,2023-10-13,US,41,Male,Bronze,Organic
+422,2023-01-31,DE,37,Female,Silver,Email
+423,2023-04-19,BR,29,Female,Bronze,Referral
+424,2022-09-29,US,34,Male,Silver,Social
+425,2022-04-02,UK,30,Male,Gold,Paid Search
+426,2021-08-07,IN,36,Female,Gold,Email
+427,2023-08-05,US,30,Male,Bronze,Paid Search
+428,2023-05-31,IN,28,Female,Silver,Organic
+429,2021-01-28,US,29,Male,Gold,Referral
+430,2023-02-23,CA,37,Female,Bronze,Email
+431,2021-04-03,CA,28,Male,Bronze,Paid Search
+432,2023-03-21,US,23,Male,Silver,Social
+433,2023-06-24,US,43,Female,Bronze,Social
+434,2021-05-24,US,26,Male,Bronze,Email
+435,2022-04-21,AU,29,Female,Silver,Email
+436,2021-05-16,BR,28,Female,Bronze,Social
+437,2022-09-14,BR,34,Female,Bronze,Paid Search
+438,2023-10-13,IN,38,Male,Bronze,Paid Search
+439,2021-03-30,CA,30,Female,Bronze,Organic
+440,2022-03-12,UK,40,Male,Bronze,Paid Search
+441,2023-12-02,US,31,Male,Bronze,Organic
+442,2021-11-26,IN,38,Male,Gold,Organic
+443,2021-05-25,IN,49,Male,Gold,Social
+444,2022-06-19,IN,30,Female,Bronze,Email
+445,2022-07-11,US,38,Female,Bronze,Email
+446,2022-12-27,IN,47,Other,Bronze,Organic
+447,2021-12-10,UK,27,Male,Gold,Organic
+448,2023-11-13,US,20,Female,Gold,Paid Search
+449,2022-07-25,US,35,Male,Bronze,Organic
+450,2021-11-10,DE,39,Male,Bronze,Referral
+451,2023-11-18,IN,41,Female,Gold,Organic
+452,2023-10-10,IN,33,Male,Bronze,Email
+453,2022-07-01,BR,36,Male,Bronze,Paid Search
+454,2021-01-28,IN,31,Female,Bronze,Organic
+455,2022-10-16,US,40,Male,Silver,Social
+456,2022-08-31,US,36,Male,Bronze,Email
+457,2021-06-12,US,27,Male,Bronze,Paid Search
+458,2022-11-26,US,49,Female,Bronze,Organic
+459,2023-07-10,BR,42,Male,Gold,Referral
+460,2021-04-26,BR,25,Male,Bronze,Email
+461,2023-03-04,IN,26,Male,Bronze,Email
+462,2021-06-03,US,30,Female,Bronze,Organic
+463,2023-03-31,US,62,Female,Bronze,Social
+464,2022-04-04,DE,18,Male,Bronze,Referral
+465,2021-01-08,BR,60,Female,Gold,Paid Search
+466,2023-11-25,IN,32,Male,Bronze,Email
+467,2021-07-01,BR,27,Male,Gold,Email
+468,2022-10-15,US,48,Female,Bronze,Paid Search
+469,2021-07-18,UK,32,Male,Silver,Paid Search
+470,2023-10-19,US,54,Female,Bronze,Email
+471,2023-03-20,UK,34,Female,Bronze,Social
+472,2023-05-31,UK,39,Female,Silver,Paid Search
+473,2022-04-19,UK,35,Male,Bronze,Paid Search
+474,2022-05-27,CA,51,Female,Bronze,Paid Search
+475,2022-11-26,US,28,Female,Bronze,Paid Search
+476,2023-05-10,US,31,Male,Silver,Email
+477,2023-07-17,DE,34,Male,Bronze,Paid Search
+478,2021-01-20,UK,34,Male,Silver,Social
+479,2022-12-28,AU,52,Female,Silver,Referral
+480,2021-04-30,CA,42,Female,Bronze,Paid Search
+481,2021-11-12,IN,33,Female,Silver,Organic
+482,2023-06-28,IN,33,Male,Silver,Paid Search
+483,2021-10-02,DE,24,Male,Bronze,Paid Search
+484,2023-05-23,US,35,Female,Silver,Social
+485,2022-05-22,IN,43,Male,Bronze,Paid Search
+486,2021-09-12,US,29,Male,Gold,Email
+487,2022-01-01,US,26,Female,Silver,Organic
+488,2022-08-05,CA,44,Female,Bronze,Organic
+489,2023-04-18,IN,45,Female,Bronze,Social
+490,2022-10-26,BR,24,Male,Bronze,Organic
+491,2023-10-19,BR,28,Female,Silver,Paid Search
+492,2023-08-09,CA,49,Male,Silver,Social
+493,2023-04-05,CA,29,Male,Silver,Email
+494,2022-10-23,US,42,Male,Bronze,Organic
+495,2021-11-14,US,26,Female,Bronze,Organic
+496,2022-03-28,DE,33,Female,Bronze,Email
+497,2021-05-11,US,62,Male,Bronze,Referral
+498,2022-02-14,IN,20,Male,Silver,Organic
+499,2023-10-12,AU,25,Female,Silver,Social
+500,2022-04-12,DE,23,Female,Silver,Email
+501,2021-05-05,US,40,Female,Bronze,Organic
+502,2022-12-15,DE,18,Female,Bronze,Organic
+503,2023-11-21,CA,52,Male,Bronze,Referral
+504,2023-08-08,BR,33,Male,Silver,Organic
+505,2021-10-28,DE,25,Female,Silver,Paid Search
+506,2022-05-13,US,46,Female,Bronze,Referral
+507,2022-08-05,CA,33,Male,Silver,Paid Search
+508,2021-09-29,DE,49,Male,Bronze,Paid Search
+509,2021-10-22,IN,37,Male,Bronze,Referral
+510,2021-09-17,CA,31,Female,Gold,Paid Search
+511,2023-12-26,IN,41,Female,Bronze,Organic
+512,2023-03-28,AU,43,Male,Gold,Organic
+513,2023-07-10,AU,37,Female,Bronze,Paid Search
+514,2023-06-14,US,27,Female,Silver,Organic
+515,2023-11-17,IN,55,Other,Bronze,Organic
+516,2021-04-26,US,34,Male,Bronze,Referral
+517,2023-08-24,US,29,Male,Silver,Referral
+518,2021-03-14,US,45,Female,Gold,Organic
+519,2022-06-05,IN,42,Male,Silver,Social
+520,2022-10-13,US,42,Male,Gold,Organic
+521,2022-01-27,CA,30,Male,Bronze,Social
+522,2021-06-10,US,23,Male,Bronze,Email
+523,2021-07-30,US,41,Male,Gold,Paid Search
+524,2023-06-23,US,32,Female,Silver,Paid Search
+525,2021-12-16,IN,36,Male,Bronze,Paid Search
+526,2021-12-06,US,51,Male,Silver,Social
+527,2023-10-09,BR,49,Male,Silver,Referral
+528,2021-06-07,IN,24,Female,Silver,Email
+529,2023-09-30,BR,49,Male,Platinum,Email
+530,2023-10-06,US,46,Male,Gold,Email
+531,2022-10-18,US,33,Female,Bronze,Social
+532,2021-07-01,BR,47,Female,Bronze,Organic
+533,2021-06-20,IN,30,Female,Silver,Paid Search
+534,2021-11-08,US,36,Female,Silver,Email
+535,2022-09-25,US,45,Male,Bronze,Email
+536,2021-06-18,BR,29,Male,Silver,Paid Search
+537,2022-05-14,US,24,Male,Silver,Social
+538,2021-05-07,IN,40,Female,Bronze,Paid Search
+539,2022-08-15,BR,31,Male,Silver,Paid Search
+540,2021-01-24,DE,41,Male,Bronze,Paid Search
+541,2023-02-16,CA,32,Female,Gold,Paid Search
+542,2021-03-02,IN,18,Male,Bronze,Email
+543,2021-08-02,DE,31,Female,Silver,Referral
+544,2021-07-11,UK,45,Female,Silver,Paid Search
+545,2023-06-29,US,35,Female,Platinum,Organic
+546,2021-02-28,UK,33,Male,Silver,Organic
+547,2022-04-16,BR,26,Male,Silver,Referral
+548,2022-10-10,US,45,Female,Bronze,Organic
+549,2022-07-20,IN,20,Male,Silver,Email
+550,2023-01-16,IN,34,Male,Bronze,Email
+551,2023-05-30,DE,53,Female,Platinum,Email
+552,2022-03-08,UK,27,Male,Bronze,Paid Search
+553,2023-06-26,IN,42,Female,Bronze,Social
+554,2021-12-15,US,32,Male,Bronze,Paid Search
+555,2023-12-14,US,21,Male,Bronze,Paid Search
+556,2022-07-07,US,45,Male,Bronze,Email
+557,2023-03-17,CA,18,Male,Silver,Referral
+558,2023-08-17,IN,34,Female,Silver,Email
+559,2023-05-18,IN,60,Female,Bronze,Paid Search
+560,2023-07-21,IN,34,Male,Bronze,Paid Search
+561,2022-08-11,IN,19,Male,Bronze,Paid Search
+562,2021-02-17,DE,29,Other,Bronze,Paid Search
+563,2022-06-24,DE,44,Female,Silver,Paid Search
+564,2021-07-18,CA,35,Female,Silver,Email
+565,2023-09-01,US,23,Female,Bronze,Social
+566,2021-09-17,CA,32,Female,Bronze,Social
+567,2021-09-07,US,35,Female,Bronze,Organic
+568,2021-10-01,US,45,Female,Silver,Organic
+569,2022-12-05,UK,30,Male,Platinum,Organic
+570,2022-09-18,US,37,Male,Bronze,Referral
+571,2023-11-05,US,25,Male,Bronze,Social
+572,2022-04-01,US,41,Male,Silver,Social
+573,2021-11-06,UK,25,Female,Silver,Paid Search
+574,2021-02-23,US,33,Male,Silver,Social
+575,2021-01-08,CA,28,Female,Bronze,Social
+576,2022-02-14,IN,42,Female,Bronze,Email
+577,2023-10-11,US,39,Female,Bronze,Organic
+578,2022-07-28,IN,38,Female,Bronze,Email
+579,2023-09-06,CA,53,Female,Gold,Organic
+580,2021-04-22,DE,42,Female,Silver,Email
+581,2021-04-13,US,42,Male,Bronze,Paid Search
+582,2023-07-02,CA,43,Female,Bronze,Organic
+583,2021-04-27,IN,31,Female,Bronze,Email
+584,2021-02-26,AU,32,Female,Platinum,Paid Search
+585,2022-03-19,IN,33,Female,Bronze,Social
+586,2023-10-10,US,19,Male,Bronze,Organic
+587,2023-01-25,CA,21,Male,Bronze,Email
+588,2021-04-19,US,37,Male,Bronze,Paid Search
+589,2023-07-06,DE,47,Female,Bronze,Email
+590,2023-07-13,IN,32,Female,Bronze,Paid Search
+591,2023-05-27,US,20,Male,Silver,Paid Search
+592,2023-09-16,US,25,Male,Gold,Paid Search
+593,2021-09-20,US,18,Female,Platinum,Paid Search
+594,2023-12-09,US,52,Female,Silver,Referral
+595,2021-12-18,IN,34,Male,Bronze,Referral
+596,2023-05-29,DE,39,Male,Bronze,Social
+597,2022-09-27,US,45,Male,Bronze,Organic
+598,2023-05-04,US,30,Male,Bronze,Email
+599,2022-11-19,CA,33,Female,Gold,Organic
+600,2022-12-05,US,35,Other,Silver,Organic
+601,2022-11-06,CA,45,Male,Gold,Paid Search
+602,2023-05-04,US,36,Female,Gold,Social
+603,2023-03-21,BR,38,Male,Silver,Organic
+604,2021-05-28,CA,29,Male,Bronze,Email
+605,2023-06-24,US,27,Male,Bronze,Paid Search
+606,2022-08-10,US,41,Female,Silver,Social
+607,2021-12-20,US,38,Female,Bronze,Social
+608,2022-07-18,US,30,Female,Bronze,Paid Search
+609,2023-11-25,IN,31,Female,Silver,Organic
+610,2023-07-29,DE,38,Male,Platinum,Paid Search
+611,2023-07-02,CA,28,Female,Silver,Paid Search
+612,2022-05-22,US,25,Female,Bronze,Paid Search
+613,2023-05-09,DE,18,Female,Silver,Referral
+614,2022-02-26,US,42,Female,Bronze,Referral
+615,2023-01-22,US,32,Female,Bronze,Referral
+616,2022-12-02,US,30,Female,Bronze,Organic
+617,2021-10-01,US,37,Other,Bronze,Organic
+618,2021-10-19,US,35,Male,Silver,Organic
+619,2021-03-08,US,25,Female,Silver,Paid Search
+620,2021-06-03,IN,31,Male,Bronze,Organic
+621,2022-04-20,BR,40,Male,Bronze,Organic
+622,2022-06-08,UK,36,Male,Bronze,Paid Search
+623,2021-06-30,AU,45,Female,Bronze,Paid Search
+624,2022-04-02,US,41,Male,Bronze,Social
+625,2022-10-24,BR,39,Female,Bronze,Paid Search
+626,2021-09-12,US,19,Male,Bronze,Paid Search
+627,2022-01-06,US,51,Male,Bronze,Social
+628,2022-02-07,US,36,Female,Bronze,Organic
+629,2022-07-08,IN,42,Female,Bronze,Organic
+630,2022-02-06,US,51,Female,Platinum,Paid Search
+631,2023-03-18,CA,38,Male,Bronze,Email
+632,2021-12-25,CA,18,Female,Silver,Organic
+633,2022-04-21,US,18,Male,Bronze,Email
+634,2022-02-20,CA,19,Male,Bronze,Paid Search
+635,2021-07-20,US,23,Female,Bronze,Paid Search
+636,2023-01-21,US,46,Female,Silver,Paid Search
+637,2021-09-15,US,41,Female,Silver,Organic
+638,2021-11-22,US,38,Female,Bronze,Social
+639,2023-05-19,US,33,Female,Silver,Referral
+640,2023-11-05,US,51,Female,Silver,Paid Search
+641,2023-01-05,US,33,Male,Bronze,Paid Search
+642,2023-10-01,BR,20,Male,Gold,Paid Search
+643,2023-07-25,BR,31,Male,Bronze,Referral
+644,2022-06-11,AU,42,Male,Bronze,Paid Search
+645,2023-04-24,US,40,Female,Gold,Organic
+646,2021-12-26,US,18,Female,Bronze,Paid Search
+647,2022-05-20,UK,32,Male,Bronze,Email
+648,2022-08-10,UK,51,Male,Bronze,Email
+649,2023-11-18,US,27,Female,Gold,Referral
+650,2023-07-19,CA,26,Male,Gold,Paid Search
+651,2022-06-20,AU,36,Female,Bronze,Referral
+652,2022-12-16,US,49,Female,Bronze,Social
+653,2021-08-10,AU,22,Female,Bronze,Organic
+654,2023-05-31,US,38,Female,Bronze,Email
+655,2022-08-29,IN,31,Female,Silver,Social
+656,2022-08-07,US,18,Female,Platinum,Organic
+657,2023-04-20,UK,34,Female,Bronze,Social
+658,2022-11-25,US,31,Male,Bronze,Referral
+659,2021-03-21,IN,36,Male,Bronze,Organic
+660,2021-11-12,US,29,Male,Bronze,Paid Search
+661,2021-07-13,IN,33,Male,Bronze,Paid Search
+662,2023-03-16,DE,27,Female,Gold,Social
+663,2021-02-08,US,49,Male,Gold,Paid Search
+664,2021-08-10,IN,23,Female,Bronze,Paid Search
+665,2022-10-17,AU,35,Male,Bronze,Organic
+666,2023-01-31,BR,30,Male,Bronze,Organic
+667,2022-07-06,AU,31,Male,Bronze,Organic
+668,2023-08-01,US,33,Female,Bronze,Organic
+669,2023-10-04,IN,28,Male,Silver,Organic
+670,2021-05-25,CA,18,Male,Silver,Organic
+671,2023-11-09,BR,49,Female,Bronze,Email
+672,2022-11-04,US,30,Female,Bronze,Organic
+673,2022-11-28,AU,44,Female,Bronze,Email
+674,2021-04-15,IN,25,Male,Bronze,Paid Search
+675,2022-11-12,CA,43,Male,Bronze,Paid Search
+676,2023-03-06,IN,29,Male,Silver,Organic
+677,2022-09-28,US,34,Male,Bronze,Organic
+678,2021-04-03,US,21,Male,Bronze,Referral
+679,2022-07-27,US,21,Male,Bronze,Social
+680,2023-10-22,UK,27,Female,Bronze,Email
+681,2023-03-04,UK,45,Male,Silver,Organic
+682,2021-05-31,IN,45,Male,Silver,Social
+683,2023-11-18,UK,38,Other,Gold,Organic
+684,2023-11-16,IN,51,Male,Bronze,Social
+685,2021-07-05,US,34,Female,Gold,Referral
+686,2023-05-27,US,28,Male,Bronze,Paid Search
+687,2022-03-22,IN,30,Female,Bronze,Organic
+688,2022-10-13,IN,40,Male,Bronze,Email
+689,2022-05-03,BR,31,Male,Silver,Paid Search
+690,2023-05-07,AU,49,Female,Bronze,Referral
+691,2023-12-28,IN,30,Female,Bronze,Organic
+692,2023-05-21,US,45,Male,Bronze,Social
+693,2023-10-17,CA,40,Male,Silver,Organic
+694,2023-11-02,US,42,Female,Bronze,Paid Search
+695,2021-04-09,IN,24,Male,Bronze,Organic
+696,2021-10-05,AU,18,Female,Silver,Organic
+697,2023-03-02,BR,36,Female,Bronze,Email
+698,2022-10-09,BR,29,Male,Platinum,Organic
+699,2021-02-24,US,38,Male,Silver,Paid Search
+700,2021-04-15,IN,40,Female,Bronze,Referral
+701,2022-07-24,CA,29,Male,Silver,Organic
+702,2022-11-06,US,27,Male,Silver,Organic
+703,2021-07-03,CA,35,Male,Gold,Email
+704,2021-07-07,US,18,Male,Silver,Paid Search
+705,2021-05-22,BR,31,Female,Bronze,Organic
+706,2022-09-11,IN,34,Female,Bronze,Email
+707,2021-01-09,US,39,Female,Bronze,Paid Search
+708,2022-09-19,BR,26,Other,Bronze,Referral
+709,2022-06-06,DE,34,Female,Bronze,Email
+710,2022-05-26,IN,42,Female,Silver,Organic
+711,2023-01-14,AU,38,Female,Bronze,Organic
+712,2022-07-27,UK,43,Female,Bronze,Organic
+713,2023-03-08,UK,25,Female,Bronze,Paid Search
+714,2023-04-17,IN,30,Female,Silver,Organic
+715,2023-10-05,BR,37,Male,Bronze,Email
+716,2023-05-26,UK,25,Female,Silver,Organic
+717,2022-07-21,UK,31,Female,Bronze,Social
+718,2022-06-23,AU,44,Male,Bronze,Referral
+719,2021-09-16,US,36,Other,Bronze,Paid Search
+720,2022-10-19,CA,41,Female,Silver,Social
+721,2021-06-02,CA,51,Male,Bronze,Email
+722,2023-10-17,US,31,Female,Silver,Referral
+723,2023-07-15,DE,50,Male,Silver,Paid Search
+724,2021-05-12,BR,31,Male,Bronze,Organic
+725,2023-05-11,IN,20,Male,Bronze,Paid Search
+726,2021-05-09,US,37,Female,Bronze,Referral
+727,2023-03-01,US,30,Female,Bronze,Email
+728,2021-04-07,US,20,Female,Bronze,Organic
+729,2022-06-19,IN,28,Female,Bronze,Organic
+730,2022-12-22,UK,27,Female,Platinum,Social
+731,2023-03-10,UK,41,Male,Bronze,Organic
+732,2022-04-04,IN,52,Male,Bronze,Social
+733,2023-10-07,IN,38,Male,Silver,Email
+734,2023-04-28,DE,39,Male,Bronze,Paid Search
+735,2021-08-17,BR,27,Female,Platinum,Referral
+736,2023-01-05,CA,28,Male,Silver,Paid Search
+737,2023-03-11,DE,39,Other,Bronze,Organic
+738,2022-01-01,US,39,Female,Bronze,Organic
+739,2023-03-20,AU,46,Male,Bronze,Email
+740,2023-09-11,BR,31,Male,Bronze,Organic
+741,2023-06-14,AU,28,Male,Bronze,Paid Search
+742,2023-04-15,UK,58,Male,Bronze,Paid Search
+743,2022-11-26,US,44,Female,Bronze,Paid Search
+744,2021-10-24,IN,43,Female,Silver,Organic
+745,2023-05-21,US,23,Male,Bronze,Organic
+746,2022-02-03,IN,37,Other,Bronze,Organic
+747,2022-08-06,IN,47,Male,Bronze,Email
+748,2021-12-11,AU,42,Other,Bronze,Paid Search
+749,2021-12-09,IN,44,Male,Platinum,Paid Search
+750,2021-06-22,IN,32,Male,Gold,Social
+751,2023-11-19,UK,25,Male,Silver,Paid Search
+752,2021-06-11,US,29,Female,Bronze,Referral
+753,2021-04-05,US,39,Male,Gold,Organic
+754,2023-10-23,DE,30,Female,Bronze,Organic
+755,2022-08-31,US,43,Female,Bronze,Organic
+756,2022-04-25,US,36,Female,Silver,Paid Search
+757,2023-03-19,IN,34,Other,Bronze,Paid Search
+758,2022-02-24,US,34,Male,Silver,Paid Search
+759,2021-05-21,US,18,Male,Bronze,Organic
+760,2023-03-11,IN,23,Male,Bronze,Referral
+761,2021-07-12,AU,46,Male,Bronze,Paid Search
+762,2022-08-29,US,32,Male,Bronze,Paid Search
+763,2023-11-06,IN,30,Male,Bronze,Social
+764,2023-10-23,IN,22,Male,Bronze,Referral
+765,2022-01-31,DE,40,Male,Silver,Organic
+766,2023-05-05,IN,18,Male,Bronze,Social
+767,2022-11-02,CA,39,Female,Platinum,Organic
+768,2022-06-09,BR,18,Female,Bronze,Organic
+769,2021-06-03,US,34,Male,Silver,Paid Search
+770,2022-02-17,BR,44,Female,Bronze,Email
+771,2022-12-15,US,32,Male,Bronze,Paid Search
+772,2023-12-17,CA,34,Male,Bronze,Email
+773,2021-01-06,UK,46,Male,Bronze,Email
+774,2023-02-25,UK,19,Male,Silver,Organic
+775,2023-07-16,IN,32,Female,Bronze,Social
+776,2023-11-08,IN,28,Male,Silver,Paid Search
+777,2022-04-10,US,33,Female,Bronze,Paid Search
+778,2021-05-10,IN,34,Male,Bronze,Referral
+779,2021-10-24,UK,44,Female,Silver,Organic
+780,2023-07-21,IN,20,Male,Bronze,Paid Search
+781,2023-08-20,IN,39,Male,Silver,Referral
+782,2022-11-29,US,51,Male,Bronze,Organic
+783,2021-05-15,CA,29,Female,Bronze,Paid Search
+784,2021-05-14,IN,37,Male,Silver,Paid Search
+785,2022-06-08,UK,25,Male,Bronze,Paid Search
+786,2022-10-07,AU,53,Female,Bronze,Organic
+787,2021-02-05,US,18,Male,Bronze,Paid Search
+788,2023-01-22,US,33,Female,Bronze,Organic
+789,2022-08-20,BR,35,Male,Gold,Email
+790,2021-01-14,DE,18,Male,Bronze,Paid Search
+791,2021-04-15,IN,20,Female,Bronze,Paid Search
+792,2022-05-13,US,27,Male,Gold,Email
+793,2023-03-03,IN,31,Male,Silver,Social
+794,2023-06-23,CA,36,Male,Silver,Social
+795,2022-04-18,IN,18,Female,Bronze,Paid Search
+796,2021-11-20,BR,42,Male,Bronze,Paid Search
+797,2023-11-27,US,31,Female,Silver,Organic
+798,2022-05-18,IN,36,Female,Bronze,Email
+799,2021-12-12,US,31,Male,Bronze,Organic
+800,2022-04-30,IN,26,Female,Silver,Organic
+801,2021-01-14,BR,42,Male,Silver,Paid Search
+802,2021-11-27,US,47,Male,Bronze,Organic
+803,2022-07-19,UK,48,Male,Silver,Paid Search
+804,2023-10-03,US,39,Female,Bronze,Paid Search
+805,2023-03-20,IN,23,Male,Bronze,Paid Search
+806,2023-05-06,US,30,Female,Silver,Social
+807,2022-08-20,IN,26,Male,Bronze,Organic
+808,2021-05-02,AU,30,Male,Bronze,Social
+809,2022-03-05,US,21,Male,Bronze,Paid Search
+810,2023-12-28,US,49,Female,Bronze,Organic
+811,2021-02-18,US,35,Male,Silver,Social
+812,2023-08-21,UK,27,Male,Bronze,Paid Search
+813,2023-01-20,US,40,Male,Bronze,Organic
+814,2021-11-07,AU,30,Female,Gold,Email
+815,2023-05-02,DE,35,Female,Bronze,Email
+816,2023-07-06,UK,26,Female,Platinum,Social
+817,2021-02-17,US,25,Male,Bronze,Paid Search
+818,2021-04-27,IN,45,Male,Silver,Paid Search
+819,2022-12-30,CA,41,Female,Bronze,Organic
+820,2023-12-31,IN,47,Male,Bronze,Social
+821,2021-01-27,CA,31,Female,Silver,Email
+822,2022-12-30,DE,34,Male,Bronze,Paid Search
+823,2021-05-30,BR,40,Male,Silver,Email
+824,2022-12-13,IN,29,Female,Bronze,Paid Search
+825,2022-11-14,CA,22,Female,Silver,Email
+826,2021-04-10,US,39,Male,Bronze,Paid Search
+827,2023-01-16,UK,30,Female,Gold,Paid Search
+828,2023-09-10,UK,32,Female,Silver,Social
+829,2023-08-04,IN,49,Female,Bronze,Organic
+830,2021-02-01,US,29,Male,Bronze,Organic
+831,2021-09-27,IN,38,Male,Silver,Referral
+832,2021-09-21,US,34,Female,Bronze,Paid Search
+833,2022-05-12,IN,36,Other,Bronze,Organic
+834,2021-06-06,US,18,Male,Silver,Paid Search
+835,2023-07-25,IN,40,Female,Silver,Organic
+836,2023-05-01,IN,51,Female,Bronze,Organic
+837,2023-06-05,US,48,Male,Silver,Paid Search
+838,2021-08-06,UK,33,Female,Bronze,Paid Search
+839,2021-01-16,US,54,Other,Bronze,Email
+840,2023-09-25,UK,46,Female,Bronze,Social
+841,2021-11-13,BR,33,Female,Gold,Social
+842,2022-12-20,BR,51,Female,Bronze,Paid Search
+843,2023-09-23,IN,33,Female,Bronze,Paid Search
+844,2021-02-09,IN,39,Female,Gold,Paid Search
+845,2021-01-06,IN,49,Other,Bronze,Organic
+846,2021-01-06,IN,29,Female,Bronze,Paid Search
+847,2021-06-21,US,34,Male,Bronze,Paid Search
+848,2021-02-26,US,19,Other,Silver,Email
+849,2023-06-17,BR,29,Male,Bronze,Paid Search
+850,2022-10-26,US,40,Female,Gold,Social
+851,2023-12-10,US,35,Female,Gold,Paid Search
+852,2023-05-28,US,41,Male,Bronze,Organic
+853,2023-11-21,US,18,Female,Bronze,Email
+854,2021-09-19,US,38,Female,Bronze,Organic
+855,2021-11-12,IN,26,Male,Silver,Email
+856,2023-07-20,UK,44,Male,Silver,Social
+857,2021-09-26,BR,25,Female,Silver,Organic
+858,2021-03-04,DE,44,Female,Bronze,Email
+859,2023-01-03,CA,20,Female,Bronze,Paid Search
+860,2023-05-28,UK,38,Female,Bronze,Paid Search
+861,2023-11-27,US,35,Male,Bronze,Paid Search
+862,2023-10-13,BR,37,Female,Bronze,Social
+863,2021-05-12,IN,33,Female,Bronze,Paid Search
+864,2023-04-26,CA,43,Female,Bronze,Organic
+865,2023-07-16,US,37,Female,Bronze,Paid Search
+866,2023-02-04,IN,36,Female,Bronze,Paid Search
+867,2023-06-17,US,35,Female,Silver,Social
+868,2023-07-07,US,24,Female,Bronze,Paid Search
+869,2022-05-04,DE,38,Female,Bronze,Organic
+870,2021-02-13,CA,26,Female,Bronze,Social
+871,2022-05-15,BR,45,Male,Silver,Social
+872,2021-08-09,CA,32,Male,Bronze,Paid Search
+873,2021-05-05,CA,34,Male,Bronze,Email
+874,2021-05-17,BR,44,Male,Bronze,Organic
+875,2023-02-03,DE,30,Female,Silver,Paid Search
+876,2022-07-07,CA,30,Male,Bronze,Email
+877,2022-08-15,US,35,Male,Bronze,Organic
+878,2023-03-27,AU,45,Male,Gold,Paid Search
+879,2022-08-24,IN,43,Male,Gold,Paid Search
+880,2022-11-21,US,39,Male,Silver,Email
+881,2021-04-05,IN,20,Male,Bronze,Email
+882,2023-07-21,CA,45,Male,Bronze,Paid Search
+883,2022-05-07,DE,26,Female,Bronze,Paid Search
+884,2021-06-19,US,36,Female,Bronze,Organic
+885,2023-06-10,IN,50,Female,Bronze,Referral
+886,2023-03-16,CA,28,Male,Bronze,Organic
+887,2021-02-28,DE,44,Female,Gold,Email
+888,2021-07-31,US,33,Female,Gold,Social
+889,2021-01-18,CA,20,Male,Silver,Email
+890,2021-10-24,DE,43,Female,Silver,Paid Search
+891,2021-04-20,US,32,Female,Bronze,Social
+892,2023-02-17,US,29,Female,Silver,Social
+893,2022-07-27,IN,44,Male,Bronze,Social
+894,2023-12-10,DE,38,Male,Bronze,Paid Search
+895,2023-04-01,AU,28,Female,Bronze,Organic
+896,2022-11-01,AU,21,Female,Bronze,Social
+897,2022-07-12,DE,33,Female,Bronze,Organic
+898,2021-03-01,IN,32,Female,Silver,Paid Search
+899,2021-03-18,US,35,Female,Bronze,Email
+900,2022-11-06,UK,39,Female,Bronze,Paid Search
+901,2021-01-05,IN,45,Male,Gold,Organic
+902,2021-02-16,DE,45,Female,Bronze,Organic
+903,2021-08-28,AU,66,Female,Bronze,Paid Search
+904,2023-08-27,US,39,Female,Bronze,Social
+905,2022-05-18,IN,25,Female,Bronze,Social
+906,2023-02-16,UK,37,Male,Platinum,Organic
+907,2022-03-27,IN,31,Female,Silver,Organic
+908,2021-07-09,US,24,Male,Bronze,Referral
+909,2022-02-11,UK,31,Male,Gold,Organic
+910,2021-04-11,US,57,Male,Bronze,Paid Search
+911,2023-04-24,IN,32,Male,Bronze,Email
+912,2021-07-20,AU,49,Female,Silver,Organic
+913,2022-02-17,IN,45,Male,Silver,Paid Search
+914,2023-12-10,US,38,Male,Silver,Email
+915,2022-10-11,BR,45,Male,Silver,Organic
+916,2022-05-18,US,40,Male,Bronze,Organic
+917,2022-08-18,US,22,Male,Bronze,Social
+918,2023-05-09,AU,40,Female,Bronze,Paid Search
+919,2021-10-06,CA,36,Female,Silver,Organic
+920,2022-11-28,US,18,Female,Silver,Social
+921,2023-08-14,UK,36,Male,Platinum,Organic
+922,2022-09-19,IN,35,Male,Platinum,Paid Search
+923,2022-05-04,BR,37,Male,Bronze,Organic
+924,2021-06-08,UK,62,Male,Bronze,Social
+925,2021-09-29,DE,52,Female,Bronze,Organic
+926,2023-11-02,US,37,Other,Platinum,Organic
+927,2022-08-16,US,45,Female,Bronze,Organic
+928,2021-11-26,US,31,Male,Bronze,Paid Search
+929,2022-04-04,UK,28,Female,Bronze,Email
+930,2022-09-25,UK,43,Female,Bronze,Email
+931,2022-08-12,US,32,Female,Bronze,Referral
+932,2023-02-06,US,38,Male,Bronze,Paid Search
+933,2021-10-09,IN,28,Male,Bronze,Organic
+934,2022-12-12,US,36,Male,Silver,Organic
+935,2022-04-30,BR,42,Female,Silver,Referral
+936,2023-10-27,BR,46,Female,Bronze,Referral
+937,2021-06-22,UK,30,Female,Bronze,Paid Search
+938,2021-06-12,BR,52,Female,Bronze,Email
+939,2022-05-21,UK,39,Male,Bronze,Organic
+940,2022-07-11,IN,36,Female,Bronze,Organic
+941,2023-01-27,UK,38,Female,Bronze,Email
+942,2022-03-19,US,37,Female,Silver,Paid Search
+943,2023-09-28,US,38,Male,Bronze,Paid Search
+944,2022-06-04,UK,39,Male,Bronze,Referral
+945,2021-05-22,US,36,Male,Bronze,Email
+946,2021-05-11,CA,50,Male,Silver,Paid Search
+947,2023-12-02,US,35,Male,Gold,Email
+948,2021-05-27,IN,20,Male,Bronze,Paid Search
+949,2023-11-04,IN,52,Male,Bronze,Paid Search
+950,2021-11-01,US,39,Male,Bronze,Social
+951,2021-04-13,US,21,Female,Silver,Organic
+952,2021-11-30,IN,26,Male,Silver,Organic
+953,2022-11-05,US,33,Other,Silver,Paid Search
+954,2022-04-14,US,40,Male,Silver,Social
+955,2023-05-11,US,18,Male,Bronze,Referral
+956,2022-11-01,IN,18,Female,Silver,Email
+957,2022-03-15,CA,36,Male,Bronze,Referral
+958,2022-11-26,CA,49,Female,Bronze,Paid Search
+959,2023-11-30,IN,48,Male,Bronze,Paid Search
+960,2022-03-27,DE,25,Male,Bronze,Referral
+961,2021-06-18,AU,41,Male,Bronze,Organic
+962,2022-03-24,IN,41,Male,Silver,Email
+963,2023-07-09,BR,37,Male,Silver,Paid Search
+964,2021-08-27,CA,47,Female,Silver,Email
+965,2023-11-06,US,27,Male,Bronze,Organic
+966,2022-10-07,IN,39,Female,Silver,Paid Search
+967,2022-10-21,AU,54,Male,Silver,Paid Search
+968,2021-12-14,US,32,Male,Gold,Referral
+969,2023-10-05,US,30,Female,Bronze,Organic
+970,2021-02-09,US,43,Male,Bronze,Organic
+971,2021-11-24,US,39,Male,Bronze,Referral
+972,2022-04-04,US,18,Male,Silver,Paid Search
+973,2022-06-07,IN,46,Female,Silver,Social
+974,2022-06-04,CA,23,Female,Bronze,Organic
+975,2021-06-11,US,43,Other,Silver,Paid Search
+976,2021-09-05,BR,34,Female,Bronze,Paid Search
+977,2021-04-15,AU,35,Female,Bronze,Social
+978,2022-09-19,IN,36,Female,Gold,Organic
+979,2022-01-20,AU,26,Female,Bronze,Organic
+980,2022-09-12,UK,47,Female,Bronze,Email
+981,2022-10-08,US,36,Male,Gold,Email
+982,2023-02-08,US,32,Female,Silver,Organic
+983,2022-08-23,IN,52,Male,Bronze,Organic
+984,2022-12-11,BR,34,Female,Gold,Paid Search
+985,2022-10-05,US,27,Female,Bronze,Paid Search
+986,2022-12-16,UK,43,Male,Bronze,Organic
+987,2022-11-07,CA,29,Female,Bronze,Organic
+988,2021-12-13,AU,52,Female,Bronze,Paid Search
+989,2021-09-27,BR,32,Female,Silver,Organic
+990,2023-05-13,US,30,Male,Bronze,Referral
+991,2022-01-11,US,27,Male,Silver,Referral
+992,2022-08-25,US,35,Male,Bronze,Paid Search
+993,2021-08-04,US,31,Male,Bronze,Email
+994,2022-04-18,BR,33,Male,Bronze,Paid Search
+995,2022-08-03,UK,21,Male,Bronze,Organic
+996,2022-11-17,AU,38,Female,Bronze,Social
+997,2022-07-31,IN,41,Male,Gold,Paid Search
+998,2022-01-30,IN,45,Male,Bronze,Referral
+999,2023-11-20,US,29,Female,Bronze,Organic
+1000,2022-07-16,IN,39,Male,Silver,Paid Search
+1001,2023-06-05,CA,45,Male,Bronze,Organic
+1002,2023-03-18,DE,39,Female,Bronze,Organic
+1003,2022-09-04,CA,29,Male,Silver,Organic
+1004,2023-08-29,BR,43,Female,Bronze,Paid Search
+1005,2021-05-21,US,49,Female,Bronze,Paid Search
+1006,2023-10-06,US,36,Female,Bronze,Paid Search
+1007,2023-07-20,DE,39,Female,Bronze,Social
+1008,2022-07-06,IN,24,Female,Bronze,Paid Search
+1009,2023-03-15,US,30,Female,Bronze,Paid Search
+1010,2022-07-24,US,45,Male,Silver,Email
+1011,2021-10-22,AU,35,Female,Gold,Paid Search
+1012,2023-05-26,BR,26,Male,Bronze,Paid Search
+1013,2021-09-27,US,49,Male,Bronze,Email
+1014,2021-12-11,UK,46,Female,Silver,Paid Search
+1015,2022-07-23,US,32,Female,Gold,Organic
+1016,2023-07-06,US,61,Male,Platinum,Organic
+1017,2022-02-25,US,30,Male,Bronze,Organic
+1018,2022-06-26,US,19,Female,Gold,Paid Search
+1019,2021-02-15,AU,33,Male,Silver,Social
+1020,2021-05-07,US,20,Female,Bronze,Email
+1021,2021-03-03,IN,40,Female,Bronze,Paid Search
+1022,2021-03-20,BR,49,Female,Bronze,Organic
+1023,2023-08-10,US,27,Male,Silver,Organic
+1024,2023-07-11,UK,31,Female,Bronze,Referral
+1025,2023-06-19,IN,30,Female,Silver,Email
+1026,2021-03-02,US,31,Male,Bronze,Social
+1027,2021-03-27,US,34,Female,Bronze,Social
+1028,2021-11-04,CA,28,Male,Bronze,Email
+1029,2022-09-11,IN,41,Male,Bronze,Paid Search
+1030,2022-01-01,US,24,Male,Bronze,Email
+1031,2022-06-18,IN,38,Female,Gold,Organic
+1032,2021-07-09,CA,43,Male,Bronze,Organic
+1033,2023-03-12,DE,25,Male,Bronze,Paid Search
+1034,2021-12-10,AU,19,Male,Gold,Referral
+1035,2021-03-14,CA,22,Male,Silver,Organic
+1036,2023-03-25,US,31,Female,Silver,Organic
+1037,2023-09-16,US,22,Male,Bronze,Referral
+1038,2021-01-17,IN,50,Male,Bronze,Organic
+1039,2022-04-24,IN,35,Male,Bronze,Organic
+1040,2023-06-25,IN,28,Male,Silver,Social
+1041,2023-02-13,DE,27,Female,Bronze,Paid Search
+1042,2023-07-27,US,43,Female,Bronze,Organic
+1043,2022-03-31,AU,46,Male,Bronze,Paid Search
+1044,2022-02-12,IN,31,Female,Silver,Social
+1045,2023-02-16,DE,37,Female,Bronze,Social
+1046,2021-06-18,IN,40,Male,Gold,Paid Search
+1047,2021-09-20,DE,40,Male,Gold,Social
+1048,2022-10-20,AU,42,Female,Silver,Email
+1049,2023-01-02,US,46,Male,Silver,Email
+1050,2021-05-12,IN,41,Male,Bronze,Organic
+1051,2022-07-11,DE,30,Female,Silver,Referral
+1052,2022-02-04,BR,32,Female,Bronze,Email
+1053,2022-07-04,UK,20,Other,Gold,Organic
+1054,2023-11-16,US,37,Male,Silver,Organic
+1055,2021-03-25,UK,36,Male,Silver,Social
+1056,2023-12-27,UK,30,Other,Bronze,Paid Search
+1057,2022-05-08,US,38,Female,Gold,Social
+1058,2023-04-26,UK,31,Other,Silver,Email
+1059,2022-04-10,IN,27,Male,Bronze,Email
+1060,2021-12-07,US,47,Female,Silver,Organic
+1061,2023-04-24,US,30,Male,Bronze,Referral
+1062,2023-01-23,CA,34,Male,Bronze,Social
+1063,2021-06-07,US,42,Male,Bronze,Referral
+1064,2023-02-12,US,25,Male,Bronze,Social
+1065,2023-04-05,DE,37,Male,Bronze,Email
+1066,2022-03-01,US,26,Female,Bronze,Paid Search
+1067,2023-10-11,US,41,Male,Bronze,Paid Search
+1068,2022-12-03,AU,57,Male,Bronze,Social
+1069,2022-01-01,UK,45,Male,Silver,Social
+1070,2021-01-12,US,48,Male,Bronze,Organic
+1071,2023-01-10,US,40,Male,Silver,Organic
+1072,2021-08-17,US,52,Female,Gold,Organic
+1073,2023-04-09,CA,18,Female,Silver,Organic
+1074,2022-07-29,IN,38,Female,Silver,Organic
+1075,2022-05-27,US,45,Female,Bronze,Organic
+1076,2021-06-29,BR,32,Female,Bronze,Paid Search
+1077,2023-02-19,DE,42,Female,Bronze,Email
+1078,2021-07-01,CA,30,Male,Silver,Paid Search
+1079,2022-04-03,DE,49,Female,Bronze,Paid Search
+1080,2023-07-05,BR,35,Female,Silver,Paid Search
+1081,2023-10-05,US,33,Male,Bronze,Organic
+1082,2023-12-20,US,28,Other,Bronze,Organic
+1083,2023-11-16,US,36,Male,Bronze,Paid Search
+1084,2022-09-01,US,50,Female,Gold,Email
+1085,2021-08-08,BR,47,Male,Bronze,Paid Search
+1086,2023-07-08,UK,27,Female,Bronze,Organic
+1087,2023-05-28,US,36,Male,Bronze,Organic
+1088,2023-12-21,US,40,Female,Silver,Referral
+1089,2022-12-14,DE,33,Female,Silver,Organic
+1090,2021-06-05,IN,37,Female,Bronze,Organic
+1091,2022-07-05,CA,47,Female,Silver,Email
+1092,2022-05-06,AU,34,Male,Bronze,Email
+1093,2023-07-13,CA,40,Male,Bronze,Paid Search
+1094,2022-03-06,US,46,Male,Silver,Organic
+1095,2021-12-26,UK,43,Male,Bronze,Social
+1096,2021-03-29,UK,37,Female,Bronze,Organic
+1097,2023-07-04,BR,50,Male,Bronze,Paid Search
+1098,2023-04-08,US,28,Female,Bronze,Social
+1099,2021-02-15,DE,19,Female,Silver,Email
+1100,2022-04-20,UK,39,Male,Bronze,Organic
+1101,2022-06-10,IN,54,Male,Silver,Email
+1102,2022-05-29,US,57,Male,Bronze,Email
+1103,2023-10-04,US,27,Male,Bronze,Organic
+1104,2021-06-14,CA,30,Male,Bronze,Social
+1105,2021-12-02,US,18,Female,Bronze,Organic
+1106,2021-07-18,IN,37,Female,Silver,Email
+1107,2021-09-25,IN,42,Female,Bronze,Organic
+1108,2023-09-21,US,26,Male,Bronze,Paid Search
+1109,2023-10-28,DE,31,Female,Bronze,Paid Search
+1110,2021-02-18,US,49,Male,Bronze,Paid Search
+1111,2022-11-24,IN,55,Male,Bronze,Organic
+1112,2021-09-12,US,44,Male,Bronze,Email
+1113,2021-07-30,IN,30,Female,Silver,Organic
+1114,2021-11-16,UK,53,Male,Bronze,Paid Search
+1115,2021-08-01,BR,41,Female,Bronze,Paid Search
+1116,2022-06-21,US,32,Male,Bronze,Paid Search
+1117,2023-12-27,US,29,Male,Silver,Organic
+1118,2022-10-05,US,18,Female,Silver,Email
+1119,2023-03-03,US,53,Other,Silver,Referral
+1120,2022-06-25,IN,61,Female,Bronze,Organic
+1121,2021-01-16,BR,35,Male,Bronze,Paid Search
+1122,2021-04-03,IN,42,Female,Bronze,Email
+1123,2021-10-22,US,35,Male,Silver,Paid Search
+1124,2021-09-24,AU,37,Female,Bronze,Email
+1125,2023-07-10,DE,24,Male,Silver,Organic
+1126,2023-07-13,IN,40,Female,Silver,Organic
+1127,2023-07-25,CA,54,Male,Bronze,Social
+1128,2022-11-30,UK,35,Male,Bronze,Social
+1129,2022-09-02,BR,32,Female,Silver,Email
+1130,2022-12-12,US,46,Female,Bronze,Email
+1131,2022-03-22,IN,28,Female,Platinum,Email
+1132,2023-01-04,DE,32,Male,Silver,Organic
+1133,2023-05-20,AU,32,Male,Bronze,Organic
+1134,2023-04-16,UK,30,Female,Silver,Organic
+1135,2022-11-04,US,26,Female,Bronze,Paid Search
+1136,2021-03-05,AU,43,Female,Silver,Social
+1137,2023-03-05,IN,50,Male,Bronze,Organic
+1138,2022-02-06,IN,44,Female,Bronze,Email
+1139,2023-03-26,US,56,Female,Bronze,Email
+1140,2022-08-14,CA,44,Male,Silver,Paid Search
+1141,2023-08-23,IN,36,Female,Bronze,Paid Search
+1142,2022-01-06,AU,33,Female,Silver,Social
+1143,2023-10-17,IN,36,Female,Silver,Social
+1144,2023-07-14,US,45,Male,Bronze,Organic
+1145,2021-12-29,CA,38,Male,Silver,Paid Search
+1146,2022-06-13,US,47,Female,Bronze,Organic
+1147,2022-08-05,US,28,Male,Bronze,Organic
+1148,2023-04-22,AU,33,Male,Silver,Social
+1149,2023-01-25,AU,40,Female,Gold,Paid Search
+1150,2023-07-22,CA,26,Male,Silver,Referral
+1151,2022-02-10,US,40,Male,Bronze,Organic
+1152,2022-07-07,CA,18,Female,Bronze,Social
+1153,2022-04-17,UK,42,Female,Platinum,Organic
+1154,2023-09-23,IN,30,Female,Bronze,Referral
+1155,2021-11-30,IN,33,Male,Bronze,Social
+1156,2022-10-05,IN,28,Female,Bronze,Referral
+1157,2021-05-12,US,35,Female,Bronze,Organic
+1158,2023-07-21,IN,26,Male,Silver,Social
+1159,2022-02-25,US,26,Female,Bronze,Organic
+1160,2022-01-08,BR,39,Male,Bronze,Paid Search
+1161,2022-10-01,BR,18,Other,Bronze,Social
+1162,2022-07-01,IN,31,Male,Bronze,Paid Search
+1163,2023-07-18,AU,42,Female,Silver,Email
+1164,2022-08-05,CA,28,Female,Bronze,Paid Search
+1165,2022-07-21,BR,45,Male,Bronze,Organic
+1166,2021-04-25,BR,21,Male,Gold,Paid Search
+1167,2021-01-25,US,23,Female,Bronze,Social
+1168,2022-03-13,CA,18,Female,Bronze,Social
+1169,2023-12-30,US,19,Female,Bronze,Referral
+1170,2023-10-02,AU,25,Male,Bronze,Organic
+1171,2022-11-20,UK,41,Female,Bronze,Paid Search
+1172,2022-11-22,DE,23,Female,Bronze,Paid Search
+1173,2022-03-05,US,31,Female,Bronze,Email
+1174,2021-07-14,US,21,Male,Bronze,Social
+1175,2021-01-10,US,37,Male,Gold,Paid Search
+1176,2022-01-07,US,26,Female,Bronze,Social
+1177,2021-12-13,IN,46,Male,Bronze,Paid Search
+1178,2021-07-29,US,37,Male,Gold,Referral
+1179,2021-10-11,AU,18,Female,Gold,Email
+1180,2021-01-28,BR,18,Male,Silver,Paid Search
+1181,2022-10-28,IN,34,Male,Silver,Social
+1182,2023-10-13,BR,24,Female,Bronze,Referral
+1183,2023-01-27,UK,37,Female,Gold,Organic
+1184,2022-05-06,BR,37,Female,Bronze,Social
+1185,2022-04-06,CA,40,Female,Bronze,Organic
+1186,2021-12-03,CA,44,Female,Bronze,Social
+1187,2021-06-05,US,30,Male,Bronze,Email
+1188,2022-10-18,CA,45,Female,Bronze,Organic
+1189,2022-09-13,CA,21,Female,Silver,Referral
+1190,2021-01-09,US,42,Female,Silver,Referral
+1191,2022-03-31,US,32,Female,Bronze,Paid Search
+1192,2021-11-01,BR,48,Male,Bronze,Email
+1193,2021-07-06,AU,52,Male,Bronze,Referral
+1194,2023-02-09,UK,47,Female,Bronze,Organic
+1195,2022-07-30,US,47,Female,Bronze,Referral
+1196,2022-11-25,IN,35,Female,Bronze,Paid Search
+1197,2023-02-21,US,18,Male,Silver,Organic
+1198,2023-12-12,CA,47,Male,Bronze,Paid Search
+1199,2023-05-30,US,36,Male,Bronze,Organic
+1200,2022-11-11,US,44,Female,Silver,Paid Search
+1201,2023-08-21,UK,32,Male,Bronze,Email
+1202,2022-06-07,DE,41,Female,Bronze,Email
+1203,2023-12-15,BR,47,Female,Bronze,Paid Search
+1204,2023-04-14,IN,28,Male,Silver,Paid Search
+1205,2022-12-14,US,41,Male,Silver,Email
+1206,2023-09-17,US,35,Female,Bronze,Paid Search
+1207,2022-07-19,DE,39,Female,Gold,Social
+1208,2023-03-01,US,38,Female,Silver,Referral
+1209,2021-11-08,DE,47,Male,Bronze,Organic
+1210,2023-11-21,IN,29,Female,Bronze,Social
+1211,2022-11-14,IN,36,Male,Silver,Paid Search
+1212,2023-05-07,US,36,Male,Gold,Paid Search
+1213,2022-05-20,BR,38,Male,Silver,Email
+1214,2023-08-08,DE,23,Male,Gold,Social
+1215,2021-03-23,IN,39,Male,Bronze,Social
+1216,2021-05-05,IN,47,Female,Gold,Social
+1217,2022-07-10,IN,31,Male,Bronze,Organic
+1218,2023-03-13,IN,21,Female,Bronze,Email
+1219,2023-06-06,BR,42,Female,Bronze,Organic
+1220,2022-04-27,IN,28,Male,Bronze,Referral
+1221,2022-12-13,US,21,Male,Bronze,Paid Search
+1222,2022-08-29,BR,35,Female,Silver,Paid Search
+1223,2023-11-19,UK,22,Male,Silver,Social
+1224,2022-12-18,US,21,Female,Gold,Paid Search
+1225,2022-04-02,US,43,Female,Gold,Paid Search
+1226,2023-11-28,IN,35,Female,Silver,Organic
+1227,2021-04-28,UK,22,Male,Bronze,Organic
+1228,2023-12-15,AU,30,Female,Bronze,Organic
+1229,2021-06-18,US,60,Male,Gold,Paid Search
+1230,2021-11-12,IN,34,Female,Gold,Paid Search
+1231,2023-06-19,US,33,Female,Bronze,Referral
+1232,2023-03-15,IN,23,Female,Gold,Organic
+1233,2023-11-29,CA,35,Female,Bronze,Organic
+1234,2023-04-02,US,23,Male,Bronze,Paid Search
+1235,2022-11-29,AU,19,Female,Silver,Paid Search
+1236,2022-01-15,US,37,Female,Bronze,Social
+1237,2021-01-06,CA,21,Female,Bronze,Social
+1238,2021-05-16,UK,37,Female,Gold,Paid Search
+1239,2021-11-23,IN,53,Male,Bronze,Organic
+1240,2021-02-14,BR,41,Male,Bronze,Social
+1241,2022-07-11,UK,19,Male,Bronze,Social
+1242,2023-05-02,CA,27,Male,Bronze,Paid Search
+1243,2023-11-21,UK,23,Male,Bronze,Organic
+1244,2022-06-21,DE,34,Female,Silver,Email
+1245,2023-08-17,US,39,Female,Silver,Paid Search
+1246,2023-12-16,UK,20,Other,Silver,Organic
+1247,2023-07-31,BR,35,Female,Bronze,Organic
+1248,2022-05-25,DE,46,Female,Bronze,Social
+1249,2021-12-23,CA,36,Female,Platinum,Paid Search
+1250,2023-12-07,AU,29,Female,Bronze,Social
+1251,2021-09-22,US,46,Female,Bronze,Organic
+1252,2022-03-27,DE,48,Female,Bronze,Paid Search
+1253,2021-03-23,BR,36,Female,Bronze,Organic
+1254,2023-05-20,US,32,Male,Bronze,Paid Search
+1255,2022-12-13,US,37,Female,Platinum,Paid Search
+1256,2021-04-03,US,50,Male,Silver,Social
+1257,2021-09-01,BR,26,Female,Silver,Social
+1258,2022-09-01,AU,39,Female,Bronze,Paid Search
+1259,2022-08-15,BR,50,Male,Bronze,Email
+1260,2023-05-29,IN,46,Male,Bronze,Organic
+1261,2021-10-19,DE,18,Male,Gold,Organic
+1262,2023-10-10,US,36,Female,Silver,Email
+1263,2022-05-02,AU,42,Other,Silver,Organic
+1264,2023-06-20,AU,43,Female,Bronze,Paid Search
+1265,2021-09-19,UK,50,Male,Bronze,Referral
+1266,2021-02-10,US,23,Male,Bronze,Social
+1267,2021-03-02,AU,31,Female,Bronze,Social
+1268,2022-02-13,BR,40,Male,Bronze,Organic
+1269,2023-11-10,AU,38,Female,Bronze,Social
+1270,2021-02-23,IN,54,Male,Bronze,Organic
+1271,2022-02-09,US,24,Male,Bronze,Social
+1272,2021-04-30,IN,46,Male,Bronze,Social
+1273,2023-10-18,IN,39,Female,Bronze,Social
+1274,2023-01-10,BR,32,Male,Gold,Referral
+1275,2023-04-16,US,38,Female,Bronze,Social
+1276,2023-02-21,UK,39,Female,Bronze,Organic
+1277,2022-12-21,BR,18,Female,Bronze,Paid Search
+1278,2023-04-28,US,36,Female,Bronze,Social
+1279,2021-01-09,IN,41,Other,Bronze,Organic
+1280,2023-08-06,CA,45,Male,Bronze,Paid Search
+1281,2023-03-22,IN,37,Female,Bronze,Paid Search
+1282,2023-03-21,IN,40,Male,Bronze,Organic
+1283,2022-03-07,CA,39,Male,Silver,Referral
+1284,2023-05-27,US,38,Female,Gold,Paid Search
+1285,2022-02-23,DE,36,Female,Bronze,Organic
+1286,2021-02-23,BR,38,Female,Bronze,Organic
+1287,2023-09-22,US,43,Female,Bronze,Organic
+1288,2021-09-14,US,27,Male,Silver,Organic
+1289,2021-04-22,US,29,Female,Bronze,Organic
+1290,2022-11-12,CA,32,Male,Bronze,Email
+1291,2021-09-13,IN,32,Male,Gold,Organic
+1292,2023-07-29,IN,27,Male,Gold,Email
+1293,2022-05-01,DE,36,Female,Bronze,Paid Search
+1294,2021-01-05,IN,38,Female,Bronze,Social
+1295,2023-11-09,UK,49,Female,Bronze,Paid Search
+1296,2022-07-18,BR,28,Other,Bronze,Paid Search
+1297,2021-10-15,IN,32,Female,Platinum,Paid Search
+1298,2023-01-12,BR,56,Male,Silver,Paid Search
+1299,2022-08-05,IN,26,Male,Silver,Organic
+1300,2021-02-02,IN,40,Female,Platinum,Email
+1301,2023-04-12,US,23,Male,Bronze,Social
+1302,2022-03-16,CA,38,Female,Silver,Paid Search
+1303,2023-02-06,UK,34,Other,Bronze,Email
+1304,2023-09-08,CA,41,Male,Silver,Social
+1305,2022-10-31,IN,33,Female,Bronze,Email
+1306,2023-01-06,BR,42,Female,Bronze,Email
+1307,2021-10-06,US,40,Female,Gold,Organic
+1308,2021-09-18,CA,55,Female,Silver,Paid Search
+1309,2022-03-31,IN,27,Male,Silver,Referral
+1310,2023-07-23,US,24,Male,Gold,Organic
+1311,2022-07-28,IN,34,Male,Silver,Paid Search
+1312,2022-01-17,US,41,Male,Bronze,Paid Search
+1313,2023-05-04,US,43,Male,Silver,Social
+1314,2023-07-24,IN,29,Male,Bronze,Organic
+1315,2023-09-16,AU,53,Female,Platinum,Referral
+1316,2021-11-24,BR,35,Male,Silver,Organic
+1317,2023-02-17,AU,20,Male,Bronze,Organic
+1318,2022-10-09,US,37,Male,Gold,Organic
+1319,2022-05-07,US,35,Male,Bronze,Paid Search
+1320,2022-03-11,US,33,Male,Bronze,Email
+1321,2021-05-06,CA,37,Male,Bronze,Paid Search
+1322,2021-10-28,AU,38,Female,Gold,Paid Search
+1323,2022-08-25,IN,27,Male,Silver,Social
+1324,2023-08-29,UK,25,Female,Platinum,Organic
+1325,2023-08-07,US,26,Female,Platinum,Paid Search
+1326,2021-07-25,UK,56,Male,Gold,Organic
+1327,2023-01-14,BR,33,Male,Silver,Paid Search
+1328,2021-04-03,DE,47,Female,Bronze,Paid Search
+1329,2023-01-10,DE,47,Male,Bronze,Paid Search
+1330,2022-01-10,IN,31,Female,Silver,Referral
+1331,2022-05-08,IN,40,Male,Bronze,Paid Search
+1332,2023-02-25,IN,41,Male,Bronze,Email
+1333,2022-04-11,CA,27,Male,Gold,Referral
+1334,2023-06-04,UK,27,Male,Bronze,Paid Search
+1335,2022-08-08,US,41,Male,Silver,Email
+1336,2023-12-30,IN,35,Female,Gold,Organic
+1337,2022-11-30,US,18,Male,Silver,Paid Search
+1338,2021-11-21,US,29,Male,Silver,Social
+1339,2023-04-29,US,27,Male,Bronze,Paid Search
+1340,2022-03-23,BR,31,Male,Bronze,Email
+1341,2022-08-08,US,20,Female,Bronze,Social
+1342,2021-05-30,AU,36,Female,Bronze,Paid Search
+1343,2021-05-11,US,38,Female,Bronze,Social
+1344,2022-09-22,IN,34,Male,Bronze,Referral
+1345,2021-07-24,CA,31,Male,Silver,Email
+1346,2023-12-29,US,28,Male,Gold,Paid Search
+1347,2023-07-26,BR,38,Female,Bronze,Organic
+1348,2023-02-07,DE,20,Male,Bronze,Paid Search
+1349,2023-03-16,US,54,Male,Silver,Social
+1350,2022-10-14,AU,46,Female,Silver,Paid Search
+1351,2021-03-08,US,18,Female,Bronze,Social
+1352,2022-03-06,US,50,Female,Bronze,Paid Search
+1353,2022-06-27,BR,38,Male,Bronze,Organic
+1354,2023-09-30,US,38,Female,Silver,Organic
+1355,2021-08-29,DE,31,Male,Bronze,Social
+1356,2022-06-29,US,42,Other,Silver,Paid Search
+1357,2022-01-12,BR,31,Female,Bronze,Paid Search
+1358,2021-05-28,IN,27,Male,Gold,Organic
+1359,2021-04-23,US,30,Male,Bronze,Social
+1360,2022-02-05,AU,30,Male,Silver,Organic
+1361,2021-04-01,CA,35,Male,Silver,Email
+1362,2021-03-15,CA,37,Female,Bronze,Paid Search
+1363,2022-01-20,IN,18,Female,Gold,Paid Search
+1364,2021-08-10,DE,40,Male,Bronze,Paid Search
+1365,2022-08-31,US,33,Other,Bronze,Email
+1366,2021-01-20,IN,42,Female,Bronze,Organic
+1367,2021-11-27,IN,37,Male,Silver,Email
+1368,2022-05-12,IN,18,Male,Silver,Organic
+1369,2023-11-21,US,37,Female,Silver,Referral
+1370,2022-11-26,CA,30,Female,Bronze,Paid Search
+1371,2023-08-23,US,18,Male,Gold,Organic
+1372,2022-01-11,IN,29,Male,Bronze,Paid Search
+1373,2022-05-08,DE,23,Male,Silver,Organic
+1374,2022-04-06,US,41,Male,Silver,Paid Search
+1375,2023-08-30,US,49,Other,Platinum,Social
+1376,2023-11-17,US,38,Female,Bronze,Organic
+1377,2023-11-20,US,42,Male,Silver,Organic
+1378,2023-04-04,CA,25,Other,Bronze,Organic
+1379,2022-07-05,IN,41,Female,Platinum,Email
+1380,2022-08-16,IN,30,Female,Bronze,Social
+1381,2023-12-10,US,18,Female,Bronze,Email
+1382,2021-11-08,IN,33,Female,Bronze,Social
+1383,2022-01-15,US,38,Female,Bronze,Referral
+1384,2023-09-10,US,46,Female,Bronze,Email
+1385,2022-02-28,IN,31,Female,Gold,Organic
+1386,2021-09-15,DE,24,Female,Gold,Email
+1387,2022-09-06,US,39,Female,Bronze,Social
+1388,2021-12-23,US,34,Male,Platinum,Email
+1389,2023-09-03,CA,29,Male,Bronze,Email
+1390,2023-09-23,US,37,Male,Bronze,Email
+1391,2021-12-02,US,45,Male,Bronze,Email
+1392,2022-08-03,AU,34,Female,Gold,Organic
+1393,2023-12-14,US,63,Male,Bronze,Paid Search
+1394,2023-03-24,DE,23,Male,Bronze,Social
+1395,2021-08-25,CA,36,Female,Bronze,Organic
+1396,2022-10-09,US,40,Female,Bronze,Paid Search
+1397,2022-11-10,IN,18,Male,Silver,Organic
+1398,2022-12-17,UK,36,Male,Bronze,Organic
+1399,2021-01-28,US,21,Male,Silver,Paid Search
+1400,2021-11-24,US,28,Male,Bronze,Paid Search
+1401,2023-07-25,AU,27,Male,Bronze,Referral
+1402,2021-09-22,US,27,Male,Bronze,Organic
+1403,2021-11-25,CA,62,Female,Bronze,Paid Search
+1404,2021-12-20,IN,32,Female,Bronze,Organic
+1405,2021-07-14,UK,41,Female,Silver,Organic
+1406,2021-06-20,IN,25,Female,Silver,Organic
+1407,2022-01-15,UK,38,Female,Silver,Paid Search
+1408,2023-08-16,IN,21,Female,Bronze,Email
+1409,2021-01-02,IN,57,Male,Bronze,Referral
+1410,2021-11-07,CA,41,Female,Bronze,Social
+1411,2021-03-08,BR,39,Male,Bronze,Social
+1412,2022-09-07,US,31,Male,Silver,Organic
+1413,2021-10-02,US,37,Female,Platinum,Email
+1414,2023-05-18,CA,53,Female,Silver,Organic
+1415,2022-10-03,US,33,Female,Silver,Referral
+1416,2023-05-09,BR,38,Female,Bronze,Paid Search
+1417,2022-11-27,US,23,Male,Silver,Organic
+1418,2022-04-26,US,48,Other,Bronze,Organic
+1419,2023-08-01,US,37,Male,Bronze,Organic
+1420,2022-06-06,US,39,Male,Silver,Referral
+1421,2023-11-07,CA,25,Female,Bronze,Email
+1422,2023-12-26,IN,23,Female,Gold,Social
+1423,2022-10-07,AU,31,Male,Bronze,Email
+1424,2023-01-09,IN,41,Female,Silver,Paid Search
+1425,2021-10-07,DE,39,Male,Silver,Paid Search
+1426,2023-06-12,DE,37,Male,Bronze,Social
+1427,2023-01-06,US,22,Female,Silver,Paid Search
+1428,2023-09-16,BR,23,Female,Bronze,Email
+1429,2021-10-20,IN,36,Male,Silver,Paid Search
+1430,2023-05-13,UK,18,Male,Bronze,Paid Search
+1431,2022-05-30,IN,27,Female,Gold,Paid Search
+1432,2021-07-22,IN,39,Male,Bronze,Paid Search
+1433,2021-07-07,US,51,Female,Bronze,Paid Search
+1434,2022-09-08,US,35,Male,Bronze,Organic
+1435,2021-12-16,AU,44,Female,Silver,Organic
+1436,2021-04-22,BR,43,Male,Bronze,Organic
+1437,2022-04-13,BR,28,Female,Silver,Paid Search
+1438,2022-12-16,DE,53,Female,Bronze,Organic
+1439,2021-12-16,DE,41,Male,Bronze,Organic
+1440,2023-11-13,BR,37,Female,Bronze,Email
+1441,2023-05-04,IN,49,Female,Bronze,Organic
+1442,2022-07-16,BR,45,Male,Bronze,Paid Search
+1443,2023-10-21,IN,42,Female,Gold,Organic
+1444,2022-04-20,UK,20,Female,Silver,Organic
+1445,2021-06-02,IN,39,Female,Silver,Referral
+1446,2021-02-09,US,36,Male,Bronze,Social
+1447,2023-10-25,US,35,Female,Silver,Referral
+1448,2023-11-17,BR,42,Male,Bronze,Paid Search
+1449,2023-03-21,UK,28,Male,Silver,Organic
+1450,2021-04-23,US,45,Female,Bronze,Social
+1451,2021-11-18,AU,34,Male,Bronze,Email
+1452,2021-02-14,BR,42,Male,Silver,Paid Search
+1453,2021-02-26,DE,20,Male,Gold,Referral
+1454,2021-09-27,US,37,Female,Bronze,Paid Search
+1455,2022-09-19,US,18,Female,Bronze,Organic
+1456,2021-03-13,BR,48,Male,Bronze,Social
+1457,2023-12-15,US,37,Male,Bronze,Paid Search
+1458,2022-05-14,US,32,Male,Bronze,Organic
+1459,2021-10-16,US,40,Female,Silver,Organic
+1460,2022-07-20,DE,34,Female,Bronze,Organic
+1461,2023-05-16,IN,23,Female,Silver,Referral
+1462,2021-12-09,BR,33,Female,Bronze,Email
+1463,2021-02-22,CA,30,Female,Bronze,Paid Search
+1464,2021-02-25,AU,27,Other,Silver,Social
+1465,2023-07-22,US,29,Female,Gold,Organic
+1466,2021-05-03,IN,32,Male,Bronze,Organic
+1467,2022-11-27,DE,45,Female,Silver,Organic
+1468,2022-02-26,AU,46,Female,Bronze,Organic
+1469,2023-05-02,US,40,Female,Bronze,Paid Search
+1470,2021-03-08,US,48,Female,Silver,Referral
+1471,2023-09-11,UK,51,Female,Bronze,Organic
+1472,2023-02-04,DE,60,Male,Bronze,Paid Search
+1473,2022-05-07,US,25,Female,Bronze,Organic
+1474,2021-08-15,IN,43,Female,Bronze,Paid Search
+1475,2023-12-06,IN,43,Female,Silver,Paid Search
+1476,2021-11-27,IN,39,Female,Bronze,Organic
+1477,2022-06-22,US,29,Male,Silver,Organic
+1478,2022-03-08,UK,43,Male,Bronze,Organic
+1479,2021-09-10,US,54,Female,Silver,Referral
+1480,2022-04-02,US,51,Male,Bronze,Social
+1481,2021-06-15,IN,50,Female,Bronze,Organic
+1482,2021-01-02,US,36,Female,Bronze,Paid Search
+1483,2021-11-14,DE,18,Male,Silver,Organic
+1484,2021-05-03,UK,36,Male,Bronze,Email
+1485,2022-03-31,UK,30,Female,Silver,Paid Search
+1486,2023-08-03,US,58,Other,Bronze,Email
+1487,2021-06-28,US,36,Male,Silver,Paid Search
+1488,2021-01-02,DE,32,Male,Bronze,Organic
+1489,2021-05-02,US,36,Female,Bronze,Social
+1490,2022-07-11,US,41,Male,Bronze,Paid Search
+1491,2021-10-28,CA,35,Female,Bronze,Paid Search
+1492,2022-06-21,US,35,Female,Bronze,Email
+1493,2021-02-02,IN,46,Male,Bronze,Organic
+1494,2021-12-31,US,19,Male,Bronze,Paid Search
+1495,2022-03-26,US,42,Male,Bronze,Social
+1496,2022-04-18,BR,31,Female,Bronze,Paid Search
+1497,2022-08-27,CA,47,Male,Silver,Social
+1498,2023-05-05,US,34,Male,Bronze,Paid Search
+1499,2022-05-27,US,28,Male,Bronze,Email
+1500,2023-07-11,IN,38,Female,Bronze,Paid Search
+1501,2022-08-04,UK,29,Male,Silver,Organic
+1502,2021-10-13,UK,50,Female,Bronze,Paid Search
+1503,2021-09-08,US,39,Male,Bronze,Paid Search
+1504,2021-12-20,AU,25,Male,Gold,Referral
+1505,2022-10-17,BR,29,Male,Silver,Paid Search
+1506,2021-09-23,DE,34,Female,Bronze,Paid Search
+1507,2023-09-29,BR,34,Female,Bronze,Organic
+1508,2022-06-10,US,37,Male,Bronze,Social
+1509,2023-08-04,US,21,Male,Bronze,Paid Search
+1510,2023-01-19,US,54,Female,Bronze,Paid Search
+1511,2022-01-01,US,30,Male,Silver,Paid Search
+1512,2021-09-07,US,27,Female,Silver,Organic
+1513,2023-03-26,BR,25,Male,Bronze,Organic
+1514,2021-12-29,BR,25,Female,Bronze,Paid Search
+1515,2021-09-28,IN,43,Male,Bronze,Paid Search
+1516,2023-10-16,DE,30,Male,Bronze,Paid Search
+1517,2022-06-13,US,21,Female,Bronze,Paid Search
+1518,2021-02-23,US,30,Male,Gold,Email
+1519,2022-06-26,IN,38,Male,Silver,Paid Search
+1520,2022-05-20,DE,42,Male,Bronze,Organic
+1521,2023-08-05,DE,22,Male,Bronze,Paid Search
+1522,2023-02-19,UK,18,Male,Silver,Organic
+1523,2021-07-29,BR,23,Male,Bronze,Social
+1524,2021-06-14,US,55,Male,Silver,Social
+1525,2022-10-23,US,18,Male,Bronze,Paid Search
+1526,2021-02-21,US,24,Male,Silver,Paid Search
+1527,2021-12-16,AU,37,Female,Silver,Organic
+1528,2021-06-01,IN,59,Female,Bronze,Organic
+1529,2021-01-23,IN,30,Male,Silver,Organic
+1530,2023-10-04,AU,38,Male,Bronze,Organic
+1531,2021-04-09,IN,48,Female,Bronze,Email
+1532,2021-01-11,US,25,Female,Platinum,Referral
+1533,2023-10-19,US,52,Female,Bronze,Paid Search
+1534,2021-07-26,IN,26,Female,Gold,Paid Search
+1535,2023-06-14,DE,42,Female,Bronze,Referral
+1536,2021-02-04,BR,61,Female,Bronze,Organic
+1537,2021-06-18,US,28,Female,Silver,Paid Search
+1538,2021-05-02,DE,34,Female,Silver,Paid Search
+1539,2023-02-13,US,31,Male,Silver,Paid Search
+1540,2022-11-11,CA,34,Male,Silver,Paid Search
+1541,2022-06-05,US,30,Female,Bronze,Social
+1542,2021-09-22,US,42,Male,Bronze,Organic
+1543,2021-04-08,IN,36,Female,Bronze,Social
+1544,2022-09-16,BR,38,Male,Silver,Paid Search
+1545,2021-09-10,US,34,Male,Bronze,Paid Search
+1546,2022-10-09,US,34,Male,Bronze,Email
+1547,2023-01-23,US,36,Male,Silver,Email
+1548,2023-07-20,AU,35,Male,Gold,Paid Search
+1549,2022-06-25,IN,32,Female,Bronze,Paid Search
+1550,2021-01-06,AU,42,Female,Bronze,Referral
+1551,2021-11-04,US,33,Female,Platinum,Organic
+1552,2023-07-24,IN,41,Male,Bronze,Social
+1553,2022-08-07,IN,39,Female,Bronze,Organic
+1554,2022-11-09,US,51,Female,Gold,Organic
+1555,2022-05-17,IN,23,Female,Gold,Paid Search
+1556,2021-06-28,IN,36,Female,Silver,Paid Search
+1557,2023-09-09,US,39,Male,Bronze,Social
+1558,2023-04-27,IN,43,Female,Gold,Email
+1559,2023-12-26,UK,31,Male,Bronze,Paid Search
+1560,2023-07-26,IN,47,Female,Bronze,Referral
+1561,2021-11-15,IN,18,Female,Bronze,Paid Search
+1562,2021-10-06,BR,36,Female,Bronze,Paid Search
+1563,2021-09-30,UK,51,Male,Bronze,Email
+1564,2023-10-04,UK,35,Female,Bronze,Social
+1565,2022-09-02,US,31,Female,Bronze,Organic
+1566,2022-05-13,CA,45,Female,Bronze,Social
+1567,2023-11-27,US,34,Female,Bronze,Organic
+1568,2022-10-23,US,20,Female,Bronze,Social
+1569,2023-09-23,IN,42,Female,Bronze,Email
+1570,2023-12-15,BR,27,Female,Bronze,Paid Search
+1571,2021-03-28,US,42,Female,Bronze,Organic
+1572,2022-01-31,IN,44,Female,Bronze,Social
+1573,2023-03-15,US,48,Male,Bronze,Social
+1574,2023-06-10,US,40,Male,Bronze,Social
+1575,2021-06-12,IN,43,Male,Bronze,Social
+1576,2021-12-15,US,34,Female,Silver,Email
+1577,2022-08-24,CA,47,Female,Silver,Organic
+1578,2023-05-26,US,46,Female,Silver,Organic
+1579,2021-05-04,UK,45,Male,Bronze,Email
+1580,2022-10-20,US,43,Female,Silver,Email
+1581,2021-11-21,US,27,Female,Bronze,Paid Search
+1582,2021-08-25,IN,48,Male,Bronze,Organic
+1583,2022-07-19,US,42,Male,Bronze,Paid Search
+1584,2022-03-30,US,18,Female,Bronze,Organic
+1585,2022-11-28,US,49,Female,Bronze,Paid Search
+1586,2021-12-14,US,34,Female,Silver,Paid Search
+1587,2023-06-21,CA,38,Male,Silver,Organic
+1588,2021-03-27,BR,33,Male,Bronze,Paid Search
+1589,2023-08-02,US,43,Male,Gold,Paid Search
+1590,2021-02-02,US,39,Other,Bronze,Organic
+1591,2023-03-17,US,34,Male,Gold,Organic
+1592,2022-01-15,DE,18,Male,Bronze,Organic
+1593,2022-02-24,US,52,Female,Silver,Paid Search
+1594,2021-01-21,US,33,Other,Bronze,Organic
+1595,2023-02-08,UK,24,Male,Gold,Organic
+1596,2021-07-01,DE,62,Male,Silver,Social
+1597,2022-12-23,IN,47,Male,Silver,Paid Search
+1598,2023-03-06,DE,30,Female,Bronze,Email
+1599,2023-07-15,US,21,Female,Bronze,Social
+1600,2023-02-15,US,34,Male,Bronze,Referral
+1601,2021-11-27,UK,49,Male,Bronze,Paid Search
+1602,2023-03-20,DE,22,Male,Bronze,Social
+1603,2023-06-24,US,33,Male,Silver,Organic
+1604,2021-12-14,US,48,Female,Bronze,Paid Search
+1605,2021-05-16,US,18,Male,Bronze,Referral
+1606,2023-09-02,BR,24,Male,Bronze,Organic
+1607,2021-06-11,US,32,Female,Gold,Paid Search
+1608,2022-10-13,BR,31,Female,Bronze,Organic
+1609,2021-09-16,BR,39,Male,Silver,Paid Search
+1610,2021-05-18,IN,18,Male,Silver,Organic
+1611,2023-05-01,BR,41,Other,Bronze,Referral
+1612,2021-06-07,US,33,Female,Bronze,Referral
+1613,2023-01-04,US,39,Male,Silver,Paid Search
+1614,2023-01-29,IN,24,Female,Silver,Paid Search
+1615,2021-03-07,DE,19,Male,Silver,Social
+1616,2021-07-09,AU,29,Male,Bronze,Social
+1617,2023-05-20,IN,34,Female,Gold,Referral
+1618,2022-07-10,US,31,Male,Bronze,Organic
+1619,2021-05-13,US,22,Male,Bronze,Paid Search
+1620,2023-12-22,IN,24,Male,Bronze,Paid Search
+1621,2021-10-18,DE,29,Male,Silver,Paid Search
+1622,2021-01-05,UK,56,Female,Bronze,Social
+1623,2023-10-09,BR,45,Female,Gold,Paid Search
+1624,2021-01-19,US,36,Male,Silver,Paid Search
+1625,2022-08-29,IN,34,Female,Platinum,Email
+1626,2023-12-24,US,47,Male,Bronze,Organic
+1627,2022-09-25,UK,35,Female,Bronze,Social
+1628,2022-10-03,CA,35,Male,Bronze,Paid Search
+1629,2022-03-02,IN,24,Male,Bronze,Organic
+1630,2021-05-19,IN,46,Female,Platinum,Paid Search
+1631,2022-09-20,US,30,Male,Gold,Organic
+1632,2023-09-10,AU,27,Female,Bronze,Paid Search
+1633,2021-04-10,UK,35,Male,Bronze,Referral
+1634,2023-08-23,CA,52,Male,Gold,Referral
+1635,2022-03-31,US,37,Male,Silver,Paid Search
+1636,2022-08-11,US,25,Male,Bronze,Email
+1637,2021-07-01,IN,32,Male,Gold,Email
+1638,2022-11-12,IN,43,Male,Bronze,Paid Search
+1639,2021-07-19,IN,42,Female,Bronze,Referral
+1640,2021-10-27,US,31,Male,Silver,Email
+1641,2023-03-02,IN,18,Male,Bronze,Organic
+1642,2021-02-25,IN,36,Female,Bronze,Paid Search
+1643,2022-05-05,US,40,Male,Bronze,Paid Search
+1644,2022-10-14,DE,38,Female,Bronze,Email
+1645,2021-05-25,CA,50,Female,Gold,Organic
+1646,2021-11-19,US,52,Male,Bronze,Email
+1647,2022-01-12,AU,50,Female,Gold,Email
+1648,2022-12-28,AU,27,Male,Bronze,Social
+1649,2023-12-06,UK,38,Male,Bronze,Email
+1650,2023-07-05,CA,29,Female,Gold,Paid Search
+1651,2021-07-27,IN,33,Male,Silver,Organic
+1652,2021-01-20,US,40,Female,Bronze,Organic
+1653,2021-02-26,US,25,Female,Silver,Paid Search
+1654,2022-10-15,US,37,Female,Silver,Organic
+1655,2021-06-21,US,22,Female,Bronze,Paid Search
+1656,2021-09-11,BR,36,Male,Bronze,Referral
+1657,2023-07-17,AU,30,Other,Bronze,Organic
+1658,2023-08-15,IN,30,Female,Bronze,Social
+1659,2023-07-08,UK,35,Female,Bronze,Paid Search
+1660,2021-10-05,AU,38,Male,Platinum,Social
+1661,2022-11-10,CA,25,Female,Bronze,Paid Search
+1662,2022-10-31,US,38,Female,Platinum,Organic
+1663,2021-07-22,AU,33,Female,Bronze,Social
+1664,2022-08-30,UK,28,Female,Silver,Referral
+1665,2022-07-30,US,38,Female,Bronze,Email
+1666,2022-03-10,US,44,Male,Bronze,Organic
+1667,2023-04-04,CA,55,Male,Bronze,Email
+1668,2023-01-12,US,22,Female,Silver,Email
+1669,2022-08-07,BR,47,Male,Bronze,Email
+1670,2023-03-06,CA,30,Male,Gold,Organic
+1671,2023-04-16,US,38,Other,Silver,Organic
+1672,2022-09-13,US,23,Male,Silver,Email
+1673,2021-10-21,IN,40,Male,Bronze,Social
+1674,2023-04-11,US,28,Female,Bronze,Email
+1675,2023-02-25,UK,35,Male,Bronze,Referral
+1676,2023-12-13,AU,28,Male,Bronze,Paid Search
+1677,2021-06-14,UK,28,Male,Bronze,Paid Search
+1678,2022-04-05,IN,27,Female,Silver,Paid Search
+1679,2023-10-10,BR,54,Male,Bronze,Organic
+1680,2022-07-18,AU,26,Male,Bronze,Social
+1681,2023-10-30,BR,44,Male,Silver,Organic
+1682,2021-01-14,US,32,Male,Bronze,Referral
+1683,2021-02-08,US,28,Female,Silver,Social
+1684,2023-05-22,UK,38,Female,Bronze,Paid Search
+1685,2022-01-28,US,45,Female,Bronze,Social
+1686,2022-07-24,IN,25,Male,Silver,Organic
+1687,2022-04-14,BR,58,Male,Bronze,Referral
+1688,2022-03-23,AU,53,Male,Gold,Social
+1689,2023-10-26,US,35,Male,Bronze,Email
+1690,2021-04-14,BR,40,Male,Bronze,Referral
+1691,2023-04-26,IN,38,Male,Gold,Organic
+1692,2023-09-02,DE,36,Female,Gold,Email
+1693,2022-12-21,US,42,Female,Bronze,Social
+1694,2022-03-09,US,28,Male,Platinum,Organic
+1695,2021-06-25,CA,48,Female,Bronze,Organic
+1696,2023-01-18,UK,32,Other,Bronze,Paid Search
+1697,2022-05-29,CA,41,Female,Bronze,Email
+1698,2021-06-13,US,34,Male,Bronze,Social
+1699,2022-01-29,US,28,Female,Bronze,Organic
+1700,2023-11-19,US,24,Female,Gold,Paid Search
+1701,2021-10-18,DE,32,Female,Bronze,Organic
+1702,2021-07-15,UK,33,Female,Bronze,Paid Search
+1703,2023-01-17,IN,46,Female,Bronze,Referral
+1704,2021-08-07,US,29,Male,Silver,Paid Search
+1705,2023-10-05,US,45,Female,Silver,Paid Search
+1706,2023-07-30,US,21,Female,Bronze,Referral
+1707,2023-12-13,US,29,Female,Bronze,Organic
+1708,2023-09-27,AU,45,Female,Bronze,Referral
+1709,2021-09-24,US,41,Other,Bronze,Social
+1710,2021-08-21,US,36,Female,Gold,Social
+1711,2022-01-11,CA,20,Female,Silver,Referral
+1712,2022-05-30,AU,43,Male,Silver,Paid Search
+1713,2023-08-22,UK,29,Female,Bronze,Referral
+1714,2023-03-15,US,40,Male,Silver,Email
+1715,2022-12-07,IN,32,Male,Gold,Paid Search
+1716,2023-08-20,US,32,Female,Bronze,Referral
+1717,2022-12-09,US,30,Male,Bronze,Email
+1718,2022-02-20,DE,54,Male,Silver,Organic
+1719,2022-03-29,CA,30,Male,Gold,Paid Search
+1720,2022-07-21,US,24,Female,Bronze,Paid Search
+1721,2021-04-08,CA,40,Male,Bronze,Email
+1722,2023-03-24,UK,18,Male,Silver,Paid Search
+1723,2022-12-16,IN,26,Female,Silver,Paid Search
+1724,2023-03-12,US,49,Male,Bronze,Organic
+1725,2022-08-08,AU,33,Male,Gold,Email
+1726,2023-05-08,US,30,Female,Silver,Organic
+1727,2023-11-06,US,55,Male,Silver,Paid Search
+1728,2022-09-17,US,35,Female,Gold,Social
+1729,2022-05-02,DE,28,Female,Bronze,Paid Search
+1730,2021-04-25,BR,41,Female,Silver,Email
+1731,2023-05-03,US,31,Female,Silver,Organic
+1732,2023-09-17,US,34,Female,Bronze,Social
+1733,2023-02-05,BR,33,Male,Silver,Email
+1734,2023-08-06,DE,18,Male,Gold,Referral
+1735,2023-08-02,AU,42,Male,Silver,Organic
+1736,2023-05-24,DE,57,Male,Bronze,Organic
+1737,2022-07-05,CA,18,Female,Bronze,Organic
+1738,2021-04-20,IN,49,Male,Silver,Referral
+1739,2021-01-04,US,33,Male,Bronze,Paid Search
+1740,2021-08-12,UK,28,Male,Silver,Paid Search
+1741,2022-04-17,IN,38,Female,Silver,Organic
+1742,2023-03-26,IN,42,Female,Silver,Paid Search
+1743,2022-05-15,IN,37,Male,Gold,Paid Search
+1744,2021-01-26,US,27,Female,Bronze,Email
+1745,2021-08-19,UK,32,Female,Bronze,Paid Search
+1746,2023-12-09,IN,36,Female,Silver,Social
+1747,2023-12-18,CA,38,Female,Platinum,Organic
+1748,2022-02-17,US,46,Male,Bronze,Email
+1749,2023-06-01,UK,20,Male,Bronze,Organic
+1750,2023-02-27,IN,37,Female,Bronze,Organic
+1751,2023-10-17,US,34,Female,Silver,Referral
+1752,2023-08-30,IN,35,Female,Gold,Social
+1753,2022-11-20,IN,44,Female,Bronze,Paid Search
+1754,2022-03-09,CA,28,Other,Bronze,Organic
+1755,2022-11-18,US,27,Female,Bronze,Referral
+1756,2021-12-16,BR,22,Female,Bronze,Paid Search
+1757,2022-01-17,US,36,Male,Bronze,Organic
+1758,2022-10-29,IN,26,Other,Bronze,Social
+1759,2022-09-18,UK,26,Female,Bronze,Email
+1760,2022-09-29,US,38,Male,Bronze,Referral
+1761,2022-02-26,US,30,Female,Bronze,Paid Search
+1762,2022-03-25,US,30,Female,Silver,Referral
+1763,2021-01-12,IN,40,Female,Silver,Paid Search
+1764,2022-10-21,US,28,Other,Silver,Organic
+1765,2022-09-23,AU,39,Male,Silver,Email
+1766,2023-10-22,US,46,Female,Bronze,Organic
+1767,2022-07-07,BR,29,Female,Silver,Social
+1768,2022-05-28,AU,45,Female,Bronze,Organic
+1769,2021-03-16,US,25,Female,Bronze,Paid Search
+1770,2021-08-04,CA,55,Female,Silver,Social
+1771,2022-01-06,AU,40,Male,Bronze,Social
+1772,2022-02-18,US,30,Female,Bronze,Organic
+1773,2022-02-02,IN,45,Female,Bronze,Paid Search
+1774,2022-03-08,CA,26,Female,Bronze,Referral
+1775,2023-04-22,CA,19,Male,Bronze,Paid Search
+1776,2021-05-24,BR,25,Female,Bronze,Organic
+1777,2021-12-30,US,21,Female,Bronze,Paid Search
+1778,2021-06-28,US,21,Male,Bronze,Email
+1779,2021-12-04,DE,42,Female,Bronze,Email
+1780,2023-01-20,US,42,Male,Gold,Paid Search
+1781,2021-02-21,UK,29,Female,Bronze,Paid Search
+1782,2022-01-07,IN,49,Female,Bronze,Paid Search
+1783,2021-01-26,IN,23,Female,Bronze,Referral
+1784,2023-11-12,BR,47,Male,Silver,Paid Search
+1785,2023-03-08,UK,26,Male,Bronze,Paid Search
+1786,2021-09-24,UK,37,Female,Silver,Social
+1787,2021-08-06,AU,30,Male,Bronze,Paid Search
+1788,2021-04-19,US,34,Female,Platinum,Organic
+1789,2022-06-02,DE,37,Male,Bronze,Paid Search
+1790,2023-04-06,IN,30,Male,Bronze,Referral
+1791,2022-10-02,UK,34,Male,Bronze,Referral
+1792,2023-08-23,CA,27,Male,Gold,Email
+1793,2022-01-12,BR,22,Male,Bronze,Organic
+1794,2021-11-01,IN,18,Female,Platinum,Paid Search
+1795,2022-06-08,BR,36,Male,Gold,Paid Search
+1796,2021-08-10,US,53,Female,Silver,Organic
+1797,2023-12-05,DE,27,Male,Bronze,Paid Search
+1798,2021-07-23,BR,42,Female,Silver,Referral
+1799,2022-06-09,DE,46,Female,Bronze,Email
+1800,2022-07-26,DE,31,Other,Silver,Organic
+1801,2021-03-04,BR,28,Male,Bronze,Organic
+1802,2022-05-28,US,38,Male,Bronze,Paid Search
+1803,2022-05-13,CA,43,Female,Bronze,Email
+1804,2021-10-12,UK,43,Female,Bronze,Paid Search
+1805,2021-05-21,IN,25,Female,Bronze,Paid Search
+1806,2021-02-19,AU,55,Female,Bronze,Paid Search
+1807,2021-01-10,IN,33,Female,Gold,Organic
+1808,2022-06-12,US,34,Male,Gold,Paid Search
+1809,2021-04-09,BR,37,Female,Silver,Organic
+1810,2023-11-17,US,46,Male,Silver,Email
+1811,2021-09-25,CA,60,Male,Silver,Organic
+1812,2022-12-16,BR,36,Male,Platinum,Paid Search
+1813,2023-01-08,CA,26,Female,Silver,Paid Search
+1814,2022-06-27,UK,38,Male,Silver,Email
+1815,2023-08-26,BR,41,Male,Bronze,Email
+1816,2021-05-02,IN,30,Male,Bronze,Email
+1817,2021-09-14,US,23,Male,Bronze,Email
+1818,2021-10-04,CA,48,Male,Gold,Paid Search
+1819,2021-05-29,DE,48,Female,Bronze,Referral
+1820,2021-11-19,BR,37,Male,Bronze,Organic
+1821,2021-12-09,IN,48,Female,Bronze,Social
+1822,2023-04-18,US,34,Male,Silver,Email
+1823,2021-11-27,US,23,Female,Bronze,Social
+1824,2023-08-18,US,46,Female,Bronze,Paid Search
+1825,2023-04-27,CA,35,Male,Silver,Paid Search
+1826,2023-09-15,IN,57,Female,Silver,Social
+1827,2021-04-26,US,18,Female,Bronze,Referral
+1828,2023-12-15,US,40,Other,Bronze,Email
+1829,2022-11-04,US,24,Male,Bronze,Organic
+1830,2023-12-12,IN,45,Female,Bronze,Paid Search
+1831,2022-01-24,BR,46,Male,Silver,Email
+1832,2023-11-10,AU,27,Male,Gold,Organic
+1833,2022-10-07,UK,53,Other,Silver,Paid Search
+1834,2021-03-20,IN,18,Female,Silver,Social
+1835,2022-03-26,US,40,Male,Bronze,Paid Search
+1836,2021-05-31,IN,40,Male,Gold,Organic
+1837,2023-10-28,UK,40,Male,Bronze,Organic
+1838,2021-11-30,US,45,Female,Bronze,Email
+1839,2021-09-01,US,38,Male,Silver,Paid Search
+1840,2022-08-29,CA,39,Male,Silver,Paid Search
+1841,2022-04-11,DE,24,Other,Bronze,Social
+1842,2021-04-17,IN,27,Male,Gold,Email
+1843,2023-06-14,UK,32,Female,Bronze,Organic
+1844,2023-07-16,IN,46,Other,Bronze,Organic
+1845,2023-03-25,US,40,Female,Gold,Organic
+1846,2022-11-07,BR,38,Male,Gold,Email
+1847,2022-03-17,US,18,Female,Bronze,Organic
+1848,2022-08-17,US,21,Female,Bronze,Paid Search
+1849,2022-07-25,UK,38,Female,Bronze,Email
+1850,2021-07-01,IN,30,Female,Bronze,Social
+1851,2021-03-31,UK,33,Female,Bronze,Organic
+1852,2021-10-05,BR,44,Female,Silver,Paid Search
+1853,2022-05-13,US,36,Male,Silver,Email
+1854,2021-06-25,US,20,Male,Silver,Organic
+1855,2021-04-27,US,30,Male,Bronze,Email
+1856,2023-07-22,US,38,Male,Bronze,Social
+1857,2022-02-15,CA,43,Female,Bronze,Paid Search
+1858,2022-10-02,IN,28,Female,Bronze,Paid Search
+1859,2022-07-28,US,44,Female,Bronze,Email
+1860,2023-03-16,DE,18,Other,Silver,Paid Search
+1861,2023-03-22,CA,34,Female,Silver,Organic
+1862,2021-11-21,AU,19,Male,Silver,Referral
+1863,2023-07-18,IN,26,Female,Bronze,Email
+1864,2022-02-11,DE,42,Female,Bronze,Organic
+1865,2023-07-04,US,30,Female,Silver,Email
+1866,2022-03-20,BR,26,Female,Bronze,Referral
+1867,2021-05-02,BR,27,Female,Platinum,Organic
+1868,2023-04-13,UK,48,Female,Bronze,Paid Search
+1869,2021-02-03,DE,43,Male,Bronze,Social
+1870,2023-04-26,DE,35,Other,Bronze,Paid Search
+1871,2021-02-17,UK,19,Female,Gold,Referral
+1872,2021-08-15,IN,18,Male,Bronze,Paid Search
+1873,2022-10-23,CA,29,Male,Gold,Referral
+1874,2023-10-28,AU,31,Female,Bronze,Paid Search
+1875,2022-03-24,CA,62,Female,Bronze,Social
+1876,2021-05-13,US,27,Female,Bronze,Social
+1877,2021-09-13,IN,32,Female,Bronze,Email
+1878,2023-09-09,UK,32,Other,Bronze,Email
+1879,2023-03-07,US,26,Male,Silver,Paid Search
+1880,2021-04-20,IN,53,Male,Bronze,Paid Search
+1881,2022-02-26,US,32,Female,Bronze,Paid Search
+1882,2021-10-17,IN,18,Male,Silver,Organic
+1883,2021-07-14,US,41,Male,Bronze,Paid Search
+1884,2023-07-16,IN,40,Male,Bronze,Referral
+1885,2022-11-08,AU,44,Female,Gold,Organic
+1886,2021-07-16,US,31,Male,Silver,Organic
+1887,2022-12-14,US,22,Female,Silver,Paid Search
+1888,2022-03-29,IN,36,Male,Silver,Organic
+1889,2021-03-09,UK,36,Male,Bronze,Social
+1890,2022-05-08,AU,29,Male,Platinum,Organic
+1891,2021-07-22,UK,28,Female,Bronze,Paid Search
+1892,2021-09-26,BR,40,Male,Silver,Referral
+1893,2023-08-21,US,27,Female,Bronze,Organic
+1894,2023-02-17,US,48,Female,Gold,Email
+1895,2021-05-27,BR,43,Male,Silver,Paid Search
+1896,2023-07-22,US,46,Female,Bronze,Email
+1897,2022-09-21,IN,25,Male,Bronze,Referral
+1898,2023-08-16,IN,35,Male,Bronze,Organic
+1899,2023-03-30,AU,29,Male,Silver,Email
+1900,2022-01-07,IN,29,Male,Silver,Paid Search
+1901,2022-08-09,BR,52,Male,Silver,Paid Search
+1902,2022-08-05,UK,46,Female,Bronze,Social
+1903,2023-02-28,US,37,Female,Bronze,Email
+1904,2021-09-30,US,50,Male,Bronze,Social
+1905,2021-12-31,IN,46,Female,Gold,Social
+1906,2021-09-26,US,30,Male,Silver,Social
+1907,2021-11-21,US,19,Female,Bronze,Organic
+1908,2021-06-26,IN,18,Female,Silver,Email
+1909,2021-02-10,UK,23,Male,Bronze,Paid Search
+1910,2023-10-27,IN,50,Male,Bronze,Email
+1911,2021-03-23,AU,33,Other,Gold,Referral
+1912,2023-08-31,US,42,Female,Bronze,Organic
+1913,2021-01-04,AU,39,Male,Gold,Organic
+1914,2023-05-02,DE,34,Male,Bronze,Referral
+1915,2021-12-26,CA,29,Female,Gold,Paid Search
+1916,2022-07-21,UK,39,Male,Silver,Email
+1917,2021-11-06,US,54,Male,Bronze,Organic
+1918,2022-06-22,CA,38,Female,Bronze,Paid Search
+1919,2022-05-10,BR,18,Male,Bronze,Paid Search
+1920,2022-08-04,CA,18,Female,Silver,Organic
+1921,2022-03-07,BR,37,Female,Bronze,Social
+1922,2022-08-11,US,31,Female,Bronze,Social
+1923,2023-06-23,AU,21,Female,Bronze,Paid Search
+1924,2022-04-21,AU,46,Female,Bronze,Organic
+1925,2022-01-31,BR,30,Male,Bronze,Organic
+1926,2021-05-25,UK,40,Male,Bronze,Paid Search
+1927,2022-01-29,BR,45,Female,Bronze,Organic
+1928,2021-05-18,UK,20,Male,Bronze,Paid Search
+1929,2021-07-19,IN,34,Male,Bronze,Referral
+1930,2023-11-09,AU,26,Other,Bronze,Paid Search
+1931,2021-04-08,US,41,Male,Silver,Social
+1932,2022-06-12,BR,48,Female,Bronze,Organic
+1933,2023-07-03,IN,37,Male,Bronze,Organic
+1934,2023-11-10,US,38,Male,Silver,Paid Search
+1935,2021-06-10,IN,32,Female,Bronze,Referral
+1936,2021-06-29,UK,41,Male,Platinum,Organic
+1937,2022-02-12,US,25,Female,Silver,Social
+1938,2022-08-31,CA,18,Male,Bronze,Email
+1939,2023-11-17,IN,42,Male,Bronze,Referral
+1940,2021-08-16,DE,40,Male,Bronze,Organic
+1941,2021-06-30,US,44,Female,Gold,Organic
+1942,2021-10-05,US,40,Female,Bronze,Organic
+1943,2023-08-16,US,23,Female,Bronze,Organic
+1944,2021-02-02,US,24,Other,Bronze,Email
+1945,2022-02-21,CA,45,Female,Bronze,Organic
+1946,2021-05-11,IN,24,Female,Bronze,Referral
+1947,2021-06-21,CA,33,Male,Bronze,Referral
+1948,2023-10-01,CA,25,Female,Gold,Organic
+1949,2021-01-02,US,48,Female,Silver,Organic
+1950,2021-12-19,BR,21,Male,Bronze,Paid Search
+1951,2023-09-30,CA,41,Female,Silver,Paid Search
+1952,2022-10-28,US,26,Female,Silver,Social
+1953,2021-03-20,UK,41,Male,Bronze,Social
+1954,2022-05-25,IN,41,Male,Bronze,Social
+1955,2023-11-30,IN,38,Female,Bronze,Paid Search
+1956,2022-03-15,IN,49,Male,Bronze,Paid Search
+1957,2022-08-02,IN,55,Male,Gold,Email
+1958,2022-08-06,IN,18,Male,Bronze,Referral
+1959,2022-12-25,IN,33,Male,Bronze,Organic
+1960,2021-07-25,IN,29,Female,Bronze,Email
+1961,2023-07-09,CA,45,Male,Gold,Organic
+1962,2023-12-19,US,46,Female,Silver,Organic
+1963,2021-06-06,US,19,Male,Silver,Organic
+1964,2023-06-16,IN,35,Female,Bronze,Email
+1965,2023-06-14,IN,28,Male,Silver,Paid Search
+1966,2023-03-24,UK,41,Female,Bronze,Organic
+1967,2022-02-11,UK,46,Female,Bronze,Organic
+1968,2022-05-29,US,24,Male,Bronze,Social
+1969,2023-07-08,UK,35,Male,Silver,Paid Search
+1970,2021-06-17,IN,25,Male,Bronze,Organic
+1971,2023-06-27,IN,19,Male,Bronze,Organic
+1972,2023-10-06,UK,47,Female,Bronze,Paid Search
+1973,2023-01-17,UK,46,Male,Bronze,Organic
+1974,2022-01-09,UK,25,Male,Silver,Paid Search
+1975,2022-09-05,BR,46,Male,Gold,Organic
+1976,2021-02-24,IN,23,Other,Bronze,Paid Search
+1977,2023-10-18,AU,43,Male,Bronze,Paid Search
+1978,2022-01-10,AU,25,Male,Bronze,Social
+1979,2021-03-04,US,35,Male,Bronze,Social
+1980,2023-05-20,BR,34,Male,Gold,Email
+1981,2022-12-22,IN,18,Female,Bronze,Organic
+1982,2022-11-13,AU,32,Male,Bronze,Social
+1983,2021-03-01,BR,34,Female,Bronze,Paid Search
+1984,2023-04-03,IN,23,Male,Silver,Paid Search
+1985,2022-11-29,US,30,Female,Bronze,Organic
+1986,2023-05-20,DE,46,Female,Bronze,Organic
+1987,2023-06-25,IN,34,Male,Bronze,Referral
+1988,2021-08-21,DE,30,Male,Bronze,Social
+1989,2021-08-19,IN,21,Female,Gold,Email
+1990,2023-10-09,IN,27,Female,Gold,Email
+1991,2022-08-05,IN,34,Other,Gold,Paid Search
+1992,2022-04-25,CA,32,Male,Bronze,Paid Search
+1993,2021-11-11,UK,25,Female,Bronze,Paid Search
+1994,2022-12-01,DE,28,Female,Silver,Organic
+1995,2023-04-06,CA,26,Female,Silver,Organic
+1996,2021-01-03,CA,50,Female,Bronze,Social
+1997,2022-08-29,IN,49,Female,Bronze,Email
+1998,2023-12-24,US,35,Male,Bronze,Paid Search
+1999,2021-11-04,IN,39,Male,Silver,Organic
+2000,2021-11-04,UK,50,Male,Bronze,Paid Search
